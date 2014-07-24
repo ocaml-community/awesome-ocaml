@@ -40,7 +40,6 @@ Fork and create a Pull Request to contribute!
 - **Frameworks**:
   - [Opium](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
   - [Eliom](http://ocsigen.org/eliom/) – Eliom is a framework for programming web sites and client/server web applications. It uses very new concepts making programming very different from all other web programming tools, and allowing to write a complex web site in very few lines of code.
-  - [Ohm](http://ohm-framework.com/) – Ohm is a web framework for the OCaml language.
 - **Tools**:
   - [COW](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
   - [tyxml](http://ocsigen.org/tyxml) — Library to build valid (according to the W3C spec) Html and Svg trees.
@@ -68,7 +67,8 @@ Fork and create a Pull Request to contribute!
 
 - [Async](http://janestreet.github.io/) — A monadic concurence library to go with the Core library.
 - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
-- [Developing Applications With Objective Caml – Concurrent Programming](http://caml.inria.fr/pub/docs/oreilly-book/pdf/chap19.pdf)
+- [Developing Applications With Objective Caml – Concurrent Programming (PDF)](http://caml.inria.fr/pub/docs/oreilly-book/pdf/chap19.pdf)
+
 
 ## Parallelism
 
