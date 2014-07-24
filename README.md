@@ -1,7 +1,7 @@
 Awesome OCaml
 =============
 
-A curated list of awesome OCaml tools, frameworks, libraries and articles.  
+A curated list of awesome OCaml tools, frameworks, libraries and articles.
 Fork and create a Pull Request to contribute!
 
 (_Inspired by [awesome-python](https://github.com/vinta/awesome-python). Discover more [awesomeness](https://github.com/bayandin/awesome-awesomeness)._)
@@ -12,6 +12,7 @@ Fork and create a Pull Request to contribute!
 - [Web Development](#web-development)
 - [Database Tools](#databas-tools)
 - [Concurrency](#concurrency)
+- [Parallelism](#parallelism)
 - [Graphics](#graphics)
 - [Metaprogramming](#metaprogramming)
 - [Language-related](#language-related)
@@ -42,6 +43,7 @@ Fork and create a Pull Request to contribute!
   - [Ohm](http://ohm-framework.com/) – Ohm is a web framework for the OCaml language.
 - **Tools**:
   - [COW](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
+  - [tyxml](http://ocsigen.org/tyxml) — Library to build valid (according to the W3C spec) Html and Svg trees.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
 - **Open Source Projecs**:
   - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
@@ -49,14 +51,28 @@ Fork and create a Pull Request to contribute!
 
 ## Database Tools
 
-- [Mongo.ml](http://massd.github.io/mongo/) – An OCaml driver for Mongodb
-- [Macaque](https://github.com/ocsigen/macaque) - Macaque is a library for safe and flexible database queries using comprehensions.
-- [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) - PG'OCaml provides an interface to PostgreSQL databases for OCaml applications.
+- **Bindings**
+  - [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — A binding to the NDBM/GDBM Unix "databases".
+  - [Mongo.ml](http://massd.github.io/mongo/) – An OCaml driver for Mongodb
+  - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — PG'OCaml provides an interface to PostgreSQL databases for OCaml applications.
+  - [SQLite3](https://github.com/mmottl/sqlite3-ocaml/) — OCaml bindings to the SQLite3 database.
+- **New Implementations**
+  - [Irmin](https://github.com/mirage/irmin) — A distributed database that follows the same design principles as Git.
+  - [Obigstore](http://obigstore.forge.ocamlcore.org/) — A database with BigTable-like data model atop LevelDB.
+- **Overlays**
+  - [ORM](https://github.com/mirage/orm/) — ORM for SQLite.
+  - [Macaque](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
+
 
 ## Concurrency
 
-- [What is the state of OCaml's parallelization abilities?](http://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
+- [Async](http://janestreet.github.io/) — A monadic concurence library to go with the Core library.
+- [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
 - [Developing Applications With Objective Caml – Concurrent Programming](http://caml.inria.fr/pub/docs/oreilly-book/pdf/chap19.pdf)
+
+## Parallelism
+
+- [What is the state of OCaml's parallelization abilities?](http://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
 
 
 ## Graphics
@@ -120,4 +136,3 @@ Fork and create a Pull Request to contribute!
 - [Why We Use OCaml](http://tech.esper.com/2014/07/15/why-we-use-ocaml/)
 - [Xen – OCaml Coding Considerations](http://wiki.xen.org/wiki/OCaml_Coding_Considerations)
 - [Monads are a class of hard drugs](http://lambda-diode.com/programming/monads-are-a-class-of-hard-drugs)
-
