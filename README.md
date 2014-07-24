@@ -4,8 +4,10 @@ Awesome OCaml
 A curated list of awesome OCaml tools, frameworks, libraries and articles.
 Fork and create a Pull Request to contribute!
 
-(_Inspired by [awesome-python](https://github.com/vinta/awesome-python). Discover more [awesomeness](https://github.com/bayandin/awesome-awesomeness)._)
+![](https://farm6.staticflickr.com/5306/5677528375_ace9c325ef_z.jpg)
 
+- _Inspired by awesome projects line. Discover [more awesomeness](https://github.com/bayandin/awesome-awesomeness)._
+- _Photo by Jim Boud, ["Basking Camel"](https://www.flickr.com/photos/boudster/5677528375)_
 
 ## Contents
 
