@@ -105,7 +105,7 @@ Fork and create a Pull Request to contribute!
 ## Community
 
 - [OCaml Planet](http://planet.ocamlcore.org/) – OCaml community feed aggregator.
-
+- [Official OCaml mailing list](http://caml.inria.fr/resources/forums.en.html)
 
 ## Online Courses
 
