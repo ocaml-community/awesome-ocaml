@@ -41,8 +41,8 @@ Fork and create a Pull Request to contribute!
 
 ## Community
 
-- [Official OCaml mailing list](http://caml.inria.fr/resources/forums.en.html)
-- [Officail OCaml website.](http://ocaml.org/)
+- [Official OCaml Mailing List](http://caml.inria.fr/resources/forums.en.html)
+- [Official OCaml Website](http://ocaml.org/)
 - [OCaml Planet](http://planet.ocamlcore.org/)
 
 
