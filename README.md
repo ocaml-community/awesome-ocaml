@@ -42,7 +42,7 @@ Fork and create a Pull Request to contribute!
   - [COW](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
 - **Open Source Projecs**:
-  - [Cumulus](https://github.com/Khady/cumulus) – Hacker news like website with the OCaml framework Ocsigen
+  - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
 
 
 ## Database Drivers
