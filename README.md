@@ -32,7 +32,6 @@ This is an open community-driven repository. Fork and create a Pull Request to c
 - [Online Courses](#online-courses)
 - [Package Management](#package-management)
 - [Build and Packaging Systems](#build-and-packaging-systems)
-- [Package Management](#package-management)
 - [Parallelism](#parallelism)
 - [Questions](#questions)
 - [Security](#security)
