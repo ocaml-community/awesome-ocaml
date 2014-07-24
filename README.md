@@ -29,6 +29,7 @@ Fork and create a Pull Request to contribute!
 
 ## Tools
 
+- [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
 - [Assemblage](https://github.com/samoht/assemblage) – A collection of tools to manage the configuration of OCaml projects.
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
