@@ -15,8 +15,8 @@ Fork and create a Pull Request to contribute!
 - [Graphics](#graphics)
 - [Metaprogramming](#metaprogramming)
 - [Language-related](#language-related)
-- [Data Serialization](#data-serialization)
-- [Text Processing](#text-processing)
+- [Serialization](#serialization)
+- [Data Processing](#data-processing)
 - [Books](#books)
 - [Community](#community)
 - [Online Courses](#online-courses)
@@ -79,13 +79,14 @@ Fork and create a Pull Request to contribute!
 - <http://caml.inria.fr/pub/ml-archives/ocaml-beginners/2003/11/b8036b7a0c1d082111d7a83c8f6dbfbb.en.html>
 
 
-## Data Serialization
+## Serialization
 
 - [biniou](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 
 
-## Text Processing
+## Data Processing
 
+- [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
 - [easy-format](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 
 
