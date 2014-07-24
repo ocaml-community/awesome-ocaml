@@ -26,8 +26,9 @@ Fork and create a Pull Request to contribute!
 - [utop](https://github.com/diml/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
 - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
 - [Assemblage](https://github.com/samoht/assemblage) – A collection of tools to manage the configuration of OCaml projects.
-- [Cmdliner](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
+- [Cmdliner](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
+- [watch-file](https://github.com/mjambon/watch-file) – Rerun a command when a file changes.
 
 
 ## Web Development
@@ -35,6 +36,7 @@ Fork and create a Pull Request to contribute!
 - **Frameworks**:
   - [Opium](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
   - [Eliom](http://ocsigen.org/eliom/) – Eliom is a framework for programming web sites and client/server web applications. It uses very new concepts making programming very different from all other web programming tools, and allowing to write a complex web site in very few lines of code.
+  - [Ohm](http://ohm-framework.com/) – Ohm is a web framework for the OCaml language.
 - **Tools**:
   - [COW](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
