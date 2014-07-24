@@ -9,10 +9,10 @@ Fork and create a Pull Request to contribute!
 
 ## Contents
 
+- [Community](#community)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Application Libraries](#application-libraries)
 - [Books](#books)
-- [Community](#community)
 - [Compilers](#compilers)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
@@ -35,6 +35,15 @@ Fork and create a Pull Request to contribute!
 - [System Programming](#system-programming)
 - [Testing](#testing)
 - [Web Development](#web-development)
+
+* * *
+
+
+## Community
+
+- [Official OCaml mailing list](http://caml.inria.fr/resources/forums.en.html)
+- [Officail OCaml website.](http://ocaml.org/)
+- [OCaml Planet](http://planet.ocamlcore.org/)
 
 
 ## Algorithms and Data Structures
@@ -61,13 +70,6 @@ Fork and create a Pull Request to contribute!
 - [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy and J. Hickey - Functional programming for the masses.
 - [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
 - [Using, Understanding, and Unraveling OCaml](http://caml.inria.fr/pub/docs/u3-ocaml) – This book describes both the OCaml language and the theoretical grounds behind its powerful type system.
-
-
-## Community
-
-- [Official OCaml mailing list](http://caml.inria.fr/resources/forums.en.html)
-- [Officail OCaml website.](http://ocaml.org/)
-- [OCaml Planet](http://planet.ocamlcore.org/) – OCaml community feed aggregator.
 
 
 ## Compilers
