@@ -18,6 +18,7 @@ Fork and create a Pull Request to contribute!
 - [Data Serialization](#data-serialization)
 - [Text Processing](#text-processing)
 - [Books](#books)
+- [Community](#community)
 - [Online Courses](#online-courses)
 - [General](#general)
 
@@ -92,6 +93,11 @@ Fork and create a Pull Request to contribute!
 
 - [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy and J. Hickey - Functional programming for the masses.
 - [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
+
+
+## Community
+
+- [OCaml Planet](http://planet.ocamlcore.org/) – OCaml community feed aggregator.
 
 
 ## Online Courses
