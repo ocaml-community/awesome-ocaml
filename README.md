@@ -18,6 +18,7 @@ Fork and create a Pull Request to contribute!
 - [Serialization](#serialization)
 - [Data Processing](#data-processing)
 - [Books](#books)
+- [Excises](#excises)
 - [Community](#community)
 - [Online Courses](#online-courses)
 - [General](#general)
