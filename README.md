@@ -18,6 +18,7 @@ Fork and create a Pull Request to contribute!
 - [Serialization](#serialization)
 - [Data Processing](#data-processing)
 - [Books](#books)
+- [Excises](#excises)
 - [Community](#community)
 - [Online Courses](#online-courses)
 - [General](#general)
@@ -95,6 +96,11 @@ Fork and create a Pull Request to contribute!
 - [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy and J. Hickey - Functional programming for the masses.
 - [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
 - [OCaml from the Very Beginning](http://ocaml-book.com/) by J. Whitington - OCaml from the Very Beginning will appeal both to new programmers, and experienced programmers eager to explore functional languages such as OCaml.
+- [Pearls of Functional Algorithm Design](http://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383/ref=sr_1_1?s=books&ie=UTF8&qid=1406229921&sr=1-1&keywords=functional+pearls) by Richard Bird - It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml is [here](https://github.com/MassD/pearls)
+
+## Excises
+
+- [99 problems](https://github.com/MassD/pearls). 99% solutions are [here](https://github.com/MassD/pearls)
 
 ## Community
 
