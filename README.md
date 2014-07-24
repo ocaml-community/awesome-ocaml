@@ -48,7 +48,8 @@ Fork and create a Pull Request to contribute!
 ## Database Drivers
 
 - [Mongo.ml](http://massd.github.io/mongo/) – An OCaml driver for Mongodb
-
+- [Macaque](https://github.com/ocsigen/macaque) - Macaque is a library for safe and flexible database queries using comprehensions.
+- [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) - PG'OCaml provides an interface to PostgreSQL databases for OCaml applications.
 
 ## Concurrency
 
