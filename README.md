@@ -32,6 +32,8 @@ Fork and create a Pull Request to contribute!
 - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 - [ctypes](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
+- [tuareg mode for emacs](https://github.com/ocaml/tuareg) - An emacs mode enabling sytax highlighting for editing .ml
+- [merlin](https://github.com/the-lambda-church/merlin) - Another emacs mode for OCaml, with more comprehensive support
 
 
 ## Web Development
@@ -120,4 +122,4 @@ Fork and create a Pull Request to contribute!
 - [Why We Use OCaml](http://tech.esper.com/2014/07/15/why-we-use-ocaml/)
 - [Xen – OCaml Coding Considerations](http://wiki.xen.org/wiki/OCaml_Coding_Considerations)
 - [Monads are a class of hard drugs](http://lambda-diode.com/programming/monads-are-a-class-of-hard-drugs)
-
+- [Beginner's guide to OCaml](http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html)
