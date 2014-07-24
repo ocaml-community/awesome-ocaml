@@ -6,6 +6,8 @@ Fork and create a Pull Request to contribute!
 
 (_Inspired by [awesome-python](https://github.com/vinta/awesome-python). Discover more [awesomeness](https://github.com/bayandin/awesome-awesomeness)._)
 
+## Contents
+
 - [Tools](#tools)
 - [Web Development](#web-development)
 - [Concurrency](#concurrency)
