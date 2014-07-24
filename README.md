@@ -10,7 +10,7 @@ Fork and create a Pull Request to contribute!
 
 - [Tools](#tools)
 - [Web Development](#web-development)
-- [Database Drivers](#databas-drivers)
+- [Database Tools](#databas-tools)
 - [Concurrency](#concurrency)
 - [Graphics](#graphics)
 - [Metaprogramming](#metaprogramming)
@@ -47,7 +47,7 @@ Fork and create a Pull Request to contribute!
   - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
 
 
-## Database Drivers
+## Database Tools
 
 - [Mongo.ml](http://massd.github.io/mongo/) – An OCaml driver for Mongodb
 - [Macaque](https://github.com/ocsigen/macaque) - Macaque is a library for safe and flexible database queries using comprehensions.
