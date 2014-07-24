@@ -1,7 +1,10 @@
-awesome-ocaml
+Awesome OCaml
 =============
 
 A curated list of awesome OCaml tools, frameworks, libraries and articles.
+
+(_Inspired by [awesome-python](https://github.com/vinta/awesome-python). Discover more [awesomeness](https://github.com/bayandin/awesome-awesomeness)._)
+
 
 ## Concurency
 
