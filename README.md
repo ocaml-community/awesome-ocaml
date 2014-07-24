@@ -14,7 +14,9 @@ Fork and create a Pull Request to contribute!
 - [Concurrency](#concurrency)
 - [Graphics](#graphics)
 - [Metaprogramming](#metaprogramming)
-- [The Language](#the-language)
+- [Language-related](#language-related)
+- [Data Serialization](#data-serialization)
+- [Text Processing](#text-processing)
 - [Books](#books)
 - [Online Courses](#online-courses)
 - [General](#general)
@@ -65,12 +67,22 @@ Fork and create a Pull Request to contribute!
 - [Syntax extensions without Camlp4: let's do it!](http://www.lexifi.com/blog/syntax-extensions-without-camlp4-lets-do-it)
 
 
-## The Language
+## Language-related
 
 - [OCaml polymorphism example other than template function?](http://stackoverflow.com/questions/14440531/ocaml-polymorphism-example-other-than-template-function)
 - [Ocaml - polymorphic print and type losing](http://stackoverflow.com/questions/7442449/ocaml-polymorphic-print-and-type-losing)
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 - <http://caml.inria.fr/pub/ml-archives/ocaml-beginners/2003/11/b8036b7a0c1d082111d7a83c8f6dbfbb.en.html>
+
+
+## Data Serialization
+
+- [biniou](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
+
+
+## Text Processing
+
+- [easy-format](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 
 
 ## Books
