@@ -28,7 +28,6 @@ Fork and create a Pull Request to contribute!
 - [Assemblage](https://github.com/samoht/assemblage) – A collection of tools to manage the configuration of OCaml projects.
 - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
-- [watch-file](https://github.com/mjambon/watch-file) – Rerun a command when a file changes.
 
 
 ## Web Development
