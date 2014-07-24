@@ -74,13 +74,28 @@ Fork and create a Pull Request to contribute!
 
 ## Parallelism
 
-- [What is the state of OCaml's parallelization abilities?](http://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
+From the easier to use to the more flexible.
 
+- [Parmap](http://rdicosmo.github.io/parmap/) — Provides easy-to-use parallel map and fold functions.
+- [ForkWork](https://github.com/mlin/forkwork) — A simple library for forking child processes to perform work on multiple cores.
+- [Functory](http://functory.lri.fr/About.html) — A distributed computing library which facilitates distributed execution of parallelizable computations in a seamless fashion.
+- [Async.Parallel](https://blogs.janestreet.com/async-parallel/) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
+- [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
+- [What is the state of OCaml's parallelization abilities?](http://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
 
 ## Graphics
 
-- [Vg](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
-- [lablqt](https://github.com/Kakadu/lablqt) – Qt5 bindings for OCaml.
+- **2D**
+  - [archimedes](http://archimedes.forge.ocamlcore.org/) — 2D plotting library.
+  - [cairo2](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
+  - [Vg](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
+- **3D**
+  - [glMLite](http://www.linux-nantes.org/~fmonnier/OCaml/GL/) — OpenGL bindings for OCaml. Provides an (experimental) functional API.
+  - [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
+  - [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
+- **GUI**
+  - [lablgtk](http://lablgtk.forge.ocamlcore.org/) — GTK2 bindings for OCaml with various higher-level facilities to define GUIs.
+  - [lablqt](https://github.com/Kakadu/lablqt) – Qt5 bindings for OCaml.
 
 
 ## Metaprogramming
@@ -101,8 +116,11 @@ Fork and create a Pull Request to contribute!
 
 ## Serialization
 
+- [bencode](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
 - [biniou](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
-
+- [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
+- [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
+- [yojson](http://mjambon.com/yojson.html) — An optimized parsing and printing library for the JSON format.
 
 ## Data Processing
 
@@ -126,6 +144,7 @@ Fork and create a Pull Request to contribute!
 
 ## Community
 
+- [ocaml.org](http://ocaml.org/) — OCaml community website.
 - [OCaml Planet](http://planet.ocamlcore.org/) – OCaml community feed aggregator.
 - [Official OCaml mailing list](http://caml.inria.fr/resources/forums.en.html)
 
