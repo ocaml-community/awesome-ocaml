@@ -206,7 +206,7 @@ Fork and create a Pull Request to contribute!
 
 ## Semantic Technology
 
-- [OCaml-RDF](http://zoggy.github.io/ocaml-rdf/) – OCaml-RDF is an OCaml library to manipulate RDF graphs and execute Sparql queries.
+- [OCaml-RDF](http://zoggy.github.io/ocaml-rdf/) – OCaml library to manipulate RDF graphs and execute Sparql queries.
 
 
 ## Serialization
