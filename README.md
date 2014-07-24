@@ -120,12 +120,12 @@ Fork and create a Pull Request to contribute!
 
 ## Exercises
 
-- [99 problems](https://github.com/MassD/pearls). 99% solutions are [here](https://github.com/MassD/pearls).
+- [99 problems](https://github.com/MassD/pearls). 99% solutions are [here](https://github.com/MassD/99)
 
 ## Community
 
 - [OCaml Planet](http://planet.ocamlcore.org/) – OCaml community feed aggregator.
-
+- [Official OCaml mailing list](http://caml.inria.fr/resources/forums.en.html)
 
 ## Online Courses
 
@@ -140,3 +140,4 @@ Fork and create a Pull Request to contribute!
 - [Why We Use OCaml](http://tech.esper.com/2014/07/15/why-we-use-ocaml/)
 - [Xen – OCaml Coding Considerations](http://wiki.xen.org/wiki/OCaml_Coding_Considerations)
 - [Monads are a class of hard drugs](http://lambda-diode.com/programming/monads-are-a-class-of-hard-drugs)
+
