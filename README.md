@@ -72,6 +72,7 @@ Fork and create a Pull Request to contribute!
 - [OCaml polymorphism example other than template function?](http://stackoverflow.com/questions/14440531/ocaml-polymorphism-example-other-than-template-function)
 - [Ocaml - polymorphic print and type losing](http://stackoverflow.com/questions/7442449/ocaml-polymorphic-print-and-type-losing)
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
+- [mikmatch](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
 - <http://caml.inria.fr/pub/ml-archives/ocaml-beginners/2003/11/b8036b7a0c1d082111d7a83c8f6dbfbb.en.html>
 
 
