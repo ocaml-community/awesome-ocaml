@@ -100,7 +100,7 @@ Fork and create a Pull Request to contribute!
 
 ## Excises
 
-- [99 problems](https://github.com/MassD/pearls). 99% solutions are [here](https://github.com/MassD/pearls)
+- [99 problems](https://github.com/MassD/pearls). 99% solutions are [here](https://github.com/MassD/99)
 
 ## Community
 
