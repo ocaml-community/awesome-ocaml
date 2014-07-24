@@ -27,7 +27,8 @@ Fork and create a Pull Request to contribute!
 - [Metaprogramming](#metaprogramming)
 - [Networking](#networking)
 - [Online Courses](#online-courses)
-- [Package Management and Build Tools](#package-management-and-build-tools)
+- [Package Management](#package-management)
+- [Build and Packaging Systems](#build-and-packaging-systems)
 - [Package Management](#package-management)
 - [Parallelism](#parallelism)
 - [Questions](#questions)
@@ -106,9 +107,17 @@ Fork and create a Pull Request to contribute!
 - [Try OCaml](http://try.ocamlpro.com/) – Try OCaml in your web browser.
 - [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [utop](https://github.com/diml/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
+- [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) — Small ncurses-based API and documentation browser. Provided with ocp-index.
+- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) — A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 - **Editor Plugins**:
   - [merlin](https://github.com/the-lambda-church/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
   - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
+  - [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) — Better OCaml mode for Sublime Text.
+    - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin)
+  - [ocp-index](http://www.typerex.org/ocp-index.html) — Easy access to the interface information of installed OCaml libraries for editors like Emacs and Vim.
+    - [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
+  - [ocp-indent](http://www.typerex.org/ocp-indent.html) — Indentation tool for OCaml, to be used from editors like Emacs and Vim.
+    - [Vim interface](https://github.com/def-lkb/ocp-indent-vim).
 
 
 ## Exercises
@@ -140,6 +149,7 @@ Fork and create a Pull Request to contribute!
 - **GUI**
   - [lablgtk](http://lablgtk.forge.ocamlcore.org/) — GTK2 bindings for OCaml with various higher-level facilities to define GUIs.
   - [lablqt](https://github.com/Kakadu/lablqt) – Qt5 bindings for OCaml.
+  - [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 
 
 ## Language-related
@@ -172,12 +182,19 @@ Fork and create a Pull Request to contribute!
 - [Princeton University - Functional programming in OCaml](http://www.cs.princeton.edu/~dpw/courses/cos326-12/).
 
 
-## Package Management and Build Tools
+## Package Management
+  - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
+  - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
 
-- [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
+## Build and Packaging Systems
+
 - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
+  - [oasis2opam](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
 - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
-- [jenga](https://github.com/janestreet/jenga) – Monadic build system from Jane Street..
+- [jenga](https://github.com/janestreet/jenga) – Monadic build system from Jane Street.
+- [ocamlbuild](http://ocaml.org/learn/tutorials/ocamlbuild/) — Build system provided with the compiler.
+- [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
+- [topkg](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
 
 
 ## Parallelism
@@ -215,7 +232,6 @@ Fork and create a Pull Request to contribute!
 
 - [bencode](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
 - [biniou](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
-- [biniou](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
 - [yojson](http://mjambon.com/yojson.html) — An optimized parsing and printing library for the JSON format.
@@ -248,5 +264,3 @@ Fork and create a Pull Request to contribute!
 
 - **Open Source Projecs**:
   - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
-
-
