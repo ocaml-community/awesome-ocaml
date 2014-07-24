@@ -33,7 +33,6 @@ This is an open community-driven repository. Fork and create a Pull Request to c
 - [Networking](#networking)
 - [Online Courses](#online-courses)
 - [Package Management](#package-management)
-- [Build and Packaging Systems](#build-and-packaging-systems)
 - [Parallelism](#parallelism)
 - [Questions](#questions)
 - [Security](#security)
@@ -187,18 +186,18 @@ This is an open community-driven repository. Fork and create a Pull Request to c
 
 
 ## Package Management
+- **Distribution**:
   - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
 
-## Build and Packaging Systems
-
-- [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
-  - [oasis2opam](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
-- [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
-- [jenga](https://github.com/janestreet/jenga) – Monadic build system from Jane Street.
-- [ocamlbuild](http://ocaml.org/learn/tutorials/ocamlbuild/) — Build system provided with the compiler.
-- [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
-- [topkg](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
+- **Build Tools**:
+  - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
+    - [oasis2opam](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
+  - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
+  - [jenga](https://github.com/janestreet/jenga) – Monadic build system from Jane Street.
+  - [ocamlbuild](http://ocaml.org/learn/tutorials/ocamlbuild/) — Build system provided with the compiler.
+  - [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
+  - [topkg](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
 
 
 ## Parallelism
