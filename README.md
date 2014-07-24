@@ -30,6 +30,7 @@ Fork and create a Pull Request to contribute!
 - [Assemblage](https://github.com/samoht/assemblage) – A collection of tools to manage the configuration of OCaml projects.
 - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
+- [ctypes](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
 
 
 ## Web Development
@@ -65,6 +66,7 @@ Fork and create a Pull Request to contribute!
 ## Metaprogramming
 
 - [Syntax extensions without Camlp4: let's do it!](http://www.lexifi.com/blog/syntax-extensions-without-camlp4-lets-do-it)
+- [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
 
 
 ## Language-related
