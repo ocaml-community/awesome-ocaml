@@ -44,13 +44,14 @@ Fork and create a Pull Request to contribute!
   - [COW](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
 - **Open Source Projecs**:
-  - [Cumulus](https://github.com/Khady/cumulus) – Hacker news like website with the OCaml framework Ocsigen
+  - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
 
 
 ## Database Drivers
 
 - [Mongo.ml](http://massd.github.io/mongo/) – An OCaml driver for Mongodb
-
+- [Macaque](https://github.com/ocsigen/macaque) - Macaque is a library for safe and flexible database queries using comprehensions.
+- [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) - PG'OCaml provides an interface to PostgreSQL databases for OCaml applications.
 
 ## Concurrency
 
@@ -93,7 +94,7 @@ Fork and create a Pull Request to contribute!
 
 - [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy and J. Hickey - Functional programming for the masses.
 - [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
-
+- [OCaml from the Very Beginning](http://ocaml-book.com/) by J. Whitington - OCaml from the Very Beginning will appeal both to new programmers, and experienced programmers eager to explore functional languages such as OCaml.
 
 ## Community
 
