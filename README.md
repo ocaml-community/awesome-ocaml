@@ -7,9 +7,7 @@ Awesome OCaml
 
 A curated list of references to awesome OCaml tools, frameworks, libraries and articles. Additionally there is a collection of freely available [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) and [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
 
-This is an open community-driven repository. Fork and create a Pull Request to contribute! :octocat:
-
-- _Inspired by awesome projects line. Discover [more awesomeness](https://github.com/bayandin/awesome-awesomeness)._
+What? Your favorite package is not listed? Fork and create a Pull Request to contribute! :octocat:
 
 ## Contents
 
@@ -273,3 +271,7 @@ This is an open community-driven repository. Fork and create a Pull Request to c
 
 - **Open Source Projecs**:
   - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
+
+* * *
+
+- _Inspired by awesome projects line. Discover [more awesomeness](https://github.com/bayandin/awesome-awesomeness)._
