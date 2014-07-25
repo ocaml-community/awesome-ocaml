@@ -77,7 +77,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 ## Compilers
 
 - [Hack Programming Language](http://hacklang.org/)
-- [Rust Programming Language](http://rust-lang.org) - It was originally coded in Ocaml before bootstrapping.
+- [Rust Programming Language](http://rust-lang.org) - Originally written in Ocaml before bootstrapping.
 
 
 ## Concurrency
@@ -124,8 +124,8 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Exercises
 
-- [99 problems](https://github.com/MassD/pearls). 99% solutions are [here](https://github.com/MassD/99)
-- [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml).
+- [99 problems](https://github.com/MassD/pearls) - 99% solutions are [here](https://github.com/MassD/99).
+- [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
 
 
 ## General
