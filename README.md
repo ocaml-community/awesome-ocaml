@@ -258,7 +258,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 - [Alcotest](https://github.com/samoht/alcotest) – A lightweight and colourful test framework.
 - [OUnit](https://github.com/warrenharris/ounit) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
-
+- [QCheck](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 
 ## Web Development
 
