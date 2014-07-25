@@ -45,8 +45,8 @@ This is an open community-driven repository. Fork and create a Pull Request to c
 
 ## Community
 
-- [Official OCaml Mailing List](http://caml.inria.fr/resources/forums.en.html)
 - [Official OCaml Website](http://ocaml.org/)
+- [Official OCaml Mailing List](http://caml.inria.fr/resources/forums.en.html)
 - [OCaml Planet](http://planet.ocamlcore.org/)
 
 
