@@ -77,9 +77,9 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 ## Compilers
 
 - [Hack Programming Language](http://hacklang.org/)
-- [Rust Programming Language](http://rust-lang.org) - Originally written in Ocaml before bootstrapping.
 - [Haxe Programming Language](http://haxe.org/)
 - [Opa Programming Language](http://opalang.org/)
+- [Rust Programming Language](http://rust-lang.org) - Originally written in Ocaml before bootstrapping.
 
 
 ## Concurrency
