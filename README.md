@@ -1,7 +1,7 @@
 Awesome OCaml
 =============
 
-> **Everything you'll ever need on the road to mastering OCaml.**
+> _**Everything you'll ever need on the road to mastering OCaml.**_
 
 ![ocaml](camel.png)
 
