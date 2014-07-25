@@ -106,6 +106,7 @@ This is an open community-driven repository. Fork and create a Pull Request to c
 ## Developer Tools
 
 - [Try OCaml](http://try.ocamlpro.com/) – Try OCaml in your web browser.
+- [iocaml](https://github.com/andrewray/iocaml) – An OCaml kernel for the IPython notebook.
 - [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [utop](https://github.com/diml/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
 - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) — Small ncurses-based API and documentation browser. Provided with ocp-index.
@@ -135,6 +136,7 @@ This is an open community-driven repository. Fork and create a Pull Request to c
 - [Xen – OCaml Coding Considerations](http://wiki.xen.org/wiki/OCaml_Coding_Considerations)
 - [Monads are a class of hard drugs](http://lambda-diode.com/programming/monads-are-a-class-of-hard-drugs)
 - [Beginner's guide to OCaml](http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html)
+- [Why OCaml, why now?](http://spyder.wordpress.com/2014/03/16/why-ocaml-why-now/)
 
 
 ## Graphics
