@@ -161,6 +161,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Logging
 
+- [Alcotest](https://github.com/samoht/alcotest) – A lightweight and colourful test framework.
 - [Volt](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
 
 
