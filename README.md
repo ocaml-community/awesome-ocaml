@@ -175,6 +175,8 @@ This is an open community-driven repository. Fork and create a Pull Request to c
 
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 - [ocaml-zmq](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml.
+- [async-zmq](https://github.com/rgrinberg/async-zmq) – Async wrapper around ocaml-zmq.
+- [lwt-zmq](https://github.com/hcarty/lwt-zmq) – Lwt-friendly interface to ZeroMQ for OCaml.
 
 
 ## Online Courses
