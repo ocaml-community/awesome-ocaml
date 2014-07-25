@@ -162,7 +162,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Logging
 
-- [Alcotest](https://github.com/samoht/alcotest) – A lightweight and colourful test framework.
+- [dolog](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 - [Volt](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
 
 
@@ -256,6 +256,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Testing
 
+- [Alcotest](https://github.com/samoht/alcotest) – A lightweight and colourful test framework.
 - [OUnit](https://github.com/warrenharris/ounit) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
 
 
