@@ -274,4 +274,4 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 * * *
 
-- _Inspired by awesome projects line. Discover [more awesomeness](https://github.com/bayandin/awesome-awesomeness)._
+- _Inspired by awesome projects line. Discover [more awesomeness](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
