@@ -123,7 +123,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Exercises
 
-- [99 problems](https://github.com/MassD/pearls). 99% solutions are [here](https://github.com/MassD/99)
+- [99 problems](http://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here](https://github.com/MassD/99)
 
 
 ## General
