@@ -136,6 +136,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Monads are a class of hard drugs](http://lambda-diode.com/programming/monads-are-a-class-of-hard-drugs)
 - [Beginner's guide to OCaml](http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html)
 - [Why OCaml, why now?](http://spyder.wordpress.com/2014/03/16/why-ocaml-why-now/)
+- [A blog about game development in OCaml](http://cranialburnout.blogspot.ca/)
 
 
 ## Graphics
