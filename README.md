@@ -5,8 +5,7 @@ Awesome OCaml
 
 ![](camel.png)
 
-This repository contains a large collection of resources for the OCaml programming language.  
-Next follows a curated list of references to awesome tools, frameworks, libraries and articles. It also contains a collection of freely available [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) and [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
+A curated list of references to awesome OCaml tools, frameworks, libraries and articles. Additionally there is a collection of freely available [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) and [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
 
 This is an open community-driven repository. Fork and create a Pull Request to contribute! :octocat:
 
