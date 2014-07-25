@@ -77,6 +77,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 ## Compilers
 
 - [Hack Programming Language](http://hacklang.org/)
+- [Rust Programming Language](http://rust-lang.org) - It was originally coded in Ocaml before bootstrapping.
 
 
 ## Concurrency
@@ -124,6 +125,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 ## Exercises
 
 - [99 problems](https://github.com/MassD/pearls). 99% solutions are [here](https://github.com/MassD/99)
+- [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml).
 
 
 ## General
@@ -195,6 +197,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - **Distribution**:
   - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
+  -	[WODI for Windows](http://wodi.forge.ocamlcore.org/) - A package manager for Windows.
 
 - **Build Tools**:
   - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
