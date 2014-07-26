@@ -77,11 +77,13 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Compilers
 
+- [Quick C-- Target Language](https://github.com/nrnrnr/qc--) - Now a dead project.
 - [Hack Programming Language](http://hacklang.org/)
 - [Haxe Programming Language](http://haxe.org/)
-- [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in Ocaml.
+- [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in OCaml.
 - [Opa Programming Language](http://opalang.org/)
-- [Rust Programming Language](http://rust-lang.org) - Originally written in Ocaml before bootstrapping.
+- [Rust Programming Language](http://rust-lang.org) - Originally written in OCaml before bootstrapping.
+- [Others](http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=88) - Some other compilers implemented in OCaml , quite a few dead now.
 
 
 ## Concurrency
@@ -230,13 +232,13 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 ## Parser and Lexer Generators
 
 - [Menhir](http://gallium.inria.fr/~fpottier/menhir/)
-- [Ocamllex](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) - Alternative to the well known lex for Ocaml environments.
-- [Ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) - Alternative to the well known yacc for Ocaml environments.
+- [Ocamllex](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) - Alternative to the well known lex for OCaml environments.
+- [Ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) - Alternative to the well known yacc for OCaml environments.
 
 ## Questions
 
 - [OCaml polymorphism example other than template function?](http://stackoverflow.com/questions/14440531/ocaml-polymorphism-example-other-than-template-function)
-- [Ocaml - polymorphic print and type losing](http://stackoverflow.com/questions/7442449/ocaml-polymorphic-print-and-type-losing)
+- [OCaml - polymorphic print and type losing](http://stackoverflow.com/questions/7442449/ocaml-polymorphic-print-and-type-losing)
 
 
 ## Security
