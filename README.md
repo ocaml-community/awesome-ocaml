@@ -73,6 +73,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy and J. Hickey - Functional programming for the masses.
 - [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
 - [Using, Understanding, and Unraveling OCaml](http://caml.inria.fr/pub/docs/u3-ocaml) – This book describes both the OCaml language and the theoretical grounds behind its powerful type system.
+- [Purely Functional Data Structures](http://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
 
 
 ## Compilers
@@ -130,7 +131,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Exercises
 
-- [99 problems](https://github.com/MassD/pearls) - 99% solutions are [here](https://github.com/MassD/99).
+- [99 problems](http://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here](https://github.com/MassD/99).
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
 
 
@@ -144,6 +145,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Monads are a class of hard drugs](http://lambda-diode.com/programming/monads-are-a-class-of-hard-drugs)
 - [Beginner's guide to OCaml](http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html)
 - [Why OCaml, why now?](http://spyder.wordpress.com/2014/03/16/why-ocaml-why-now/)
+- [A blog about game development in OCaml](http://cranialburnout.blogspot.ca/)
 
 
 ## Graphics
@@ -272,7 +274,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 - [Alcotest](https://github.com/samoht/alcotest) – A lightweight and colourful test framework.
 - [OUnit](https://github.com/warrenharris/ounit) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
-
+- [QCheck](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 
 ## Web Development
 
