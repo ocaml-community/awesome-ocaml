@@ -79,6 +79,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 - [Hack Programming Language](http://hacklang.org/)
 - [Haxe Programming Language](http://haxe.org/)
+- [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in Ocaml.
 - [Opa Programming Language](http://opalang.org/)
 - [Rust Programming Language](http://rust-lang.org) - Originally written in Ocaml before bootstrapping.
 
