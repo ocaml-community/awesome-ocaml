@@ -23,6 +23,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [General](#general)
 - [Graphics](#graphics)
 - [Language-related](#language-related)
+- [Linters](#linters)
 - [Logging](#logging)
 - [Metaprogramming](#metaprogramming)
 - [Networking](#networking)
@@ -171,6 +172,11 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 - [mikmatch](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
+
+
+## Linters
+
+- [Mascot](http://mascot.x9c.fr/)
 
 
 ## Logging
