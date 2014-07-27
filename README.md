@@ -84,7 +84,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Hack Programming Language](http://hacklang.org/)
   - [Haxe Programming Language](http://haxe.org/)
   - [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in OCaml.
-  - [OCaml-Java](http://www.ocamljava.org) - OCaml to Java bytecode compiler
+  - [OCaml-Java](http://www.ocamljava.org) - OCaml to Java bytecode compiler.
   - [Opa Programming Language](http://opalang.org/)
   - [Rust Programming Language](http://rust-lang.org) - Originally written in OCaml before bootstrapping.
   - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
