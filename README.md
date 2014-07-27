@@ -31,7 +31,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Online Courses](#online-courses)
 - [Package Management](#package-management)
 - [Parallelism](#parallelism)
-- [Parser and Lexer Generators](#parser-and-lexer-generators)
 - [Questions](#questions)
 - [Security](#security)
 - [Semantic Technology](#semantic-technology)
@@ -238,11 +237,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](http://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
 
-## Parser and Lexer Generators
-
-- [Menhir](http://gallium.inria.fr/~fpottier/menhir/)
-- [Ocamllex](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) - Alternative to the well known lex for OCaml environments.
-- [Ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) - Alternative to the well known yacc for OCaml environments.
 
 ## Questions
 
