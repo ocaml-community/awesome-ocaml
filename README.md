@@ -84,9 +84,10 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Hack Programming Language](http://hacklang.org/)
   - [Haxe Programming Language](http://haxe.org/)
   - [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in OCaml.
+  - [OCaml-Java](http://www.ocamljava.org) - OCaml to Java bytecode compiler
   - [Opa Programming Language](http://opalang.org/)
   - [Rust Programming Language](http://rust-lang.org) - Originally written in OCaml before bootstrapping.
-  - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html). 
+  - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
   - [Others](http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=88) - Some other compilers implemented in OCaml, quite a few dead now.
 - **Parser and Lexer Generators**:
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir) – Menhir is a LR(1) parser generator for OCaml.
