@@ -95,7 +95,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 ## Concurrency
 
-- [Async](http://janestreet.github.io/) — A monadic concurence library to go with the Core library.
+- [Async](http://janestreet.github.io/) — A monadic concurrence library to go with the Core library.
 - [Cooperative Concurrency in OCaml: A Core.Std.Async Example](http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/).
 - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
 
