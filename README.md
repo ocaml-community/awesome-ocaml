@@ -78,7 +78,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Compilers
 
-- [Quick C-- Target Language](https://github.com/nrnrnr/qc--) - Now a dead project.
+- [Quick C-- Target Language](http://www.cminusminus.org/) - [Github Repo](https://github.com/nrnrnr/qc--). [Another website](http://www.cs.tufts.edu/~nr/c--/qc--.html). It is now a dead project.
 - [Hack Programming Language](http://hacklang.org/)
 - [Haxe Programming Language](http://haxe.org/)
 - [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in OCaml.
