@@ -26,7 +26,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [General](#general)
 - [Graphics](#graphics)
 - [Language-related](#language-related)
-- [Linters](#linters)
 - [Logging](#logging)
 - [Metaprogramming](#metaprogramming)
 - [Networking](#networking)
