@@ -17,7 +17,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Application Libraries](#application-libraries)
 - [Books](#books)
-- [Compilers](#compilers)
+- [Code Analysis And Linters](#code-analysis-and-linters)
+- [Compilers And Compiler Tools](#compilers-and-compiler-tools)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
 - [Developer Tools](#developer-tools)
@@ -25,13 +26,13 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [General](#general)
 - [Graphics](#graphics)
 - [Language-related](#language-related)
+- [Linters](#linters)
 - [Logging](#logging)
 - [Metaprogramming](#metaprogramming)
 - [Networking](#networking)
 - [Online Courses](#online-courses)
 - [Package Management](#package-management)
 - [Parallelism](#parallelism)
-- [Parser and Lexer Generators](#parser-and-lexer-generators)
 - [Questions](#questions)
 - [Security](#security)
 - [Semantic Technology](#semantic-technology)
@@ -78,7 +79,13 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Purely Functional Data Structures](http://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
 
 
-## Compilers
+## Code Analysis And Linters
+
+- [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
+- [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+
+
+## Compilers And Compiler Tools
 
 - **Compilers Written in OCaml**:
   - [Hack Programming Language](http://hacklang.org/)
@@ -120,7 +127,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Try OCaml](http://try.ocamlpro.com/) – Try OCaml in your web browser.
 - [iocaml](https://github.com/andrewray/iocaml) – An OCaml kernel for the IPython notebook.
-- [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [utop](https://github.com/diml/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
 - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) — Small ncurses-based API and documentation browser. Provided with ocp-index.
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) — A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
@@ -238,11 +244,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](http://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
 
-## Parser and Lexer Generators
-
-- [Menhir](http://gallium.inria.fr/~fpottier/menhir/)
-- [Ocamllex](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) - Alternative to the well known lex for OCaml environments.
-- [Ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) - Alternative to the well known yacc for OCaml environments.
 
 ## Questions
 
