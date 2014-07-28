@@ -18,7 +18,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Application Libraries](#application-libraries)
 - [Books](#books)
 - [Code Analysis And Linters](#code-analysis-and-linters)
-- [Compilers](#compilers)
+- [Compilers And Compiler Tools](#compilers-and-compiler tools)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
 - [Developer Tools](#developer-tools)
@@ -85,7 +85,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 
 
-## Compilers
+## Compilers And Compiler Tools
 
 - **Compilers Written in OCaml**:
   - [Hack Programming Language](http://hacklang.org/)
@@ -181,11 +181,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 - [mikmatch](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
-
-
-## Linters
-
-- [Mascot](http://mascot.x9c.fr/)
 
 
 ## Logging
