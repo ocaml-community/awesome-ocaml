@@ -88,6 +88,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Compilers And Compiler Tools
 
 - **Compilers Written in OCaml**:
+  - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features. 
   - [Hack Programming Language](http://hacklang.org/)
   - [Haxe Programming Language](http://haxe.org/)
   - [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in OCaml.
