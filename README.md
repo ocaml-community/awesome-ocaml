@@ -17,8 +17,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Application Libraries](#application-libraries)
 - [Books](#books)
-- [Code Analysis And Linters](#code-analysis-and-linters)
-- [Compilers And Compiler Tools](#compilers-and-compiler-tools)
+- [Code Analysis and Linters](#code-analysis-and-linters)
+- [Compilers and Compiler Tools](#compilers-and-compiler-tools)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
 - [Developer Tools](#developer-tools)
@@ -78,13 +78,13 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Purely Functional Data Structures](http://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
 
 
-## Code Analysis And Linters
+## Code Analysis and Linters
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
 - [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 
 
-## Compilers And Compiler Tools
+## Compilers and Compiler Tools
 
 - **Compilers Written in OCaml**:
   - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features. 
