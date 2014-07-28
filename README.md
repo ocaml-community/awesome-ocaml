@@ -18,7 +18,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Application Libraries](#application-libraries)
 - [Books](#books)
 - [Code Analysis And Linters](#code-analysis-and-linters)
-- [Compilers And Compiler Tools](#compilers-and-compiler tools)
+- [Compilers And Compiler Tools](#compilers-and-compiler-tools)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
 - [Developer Tools](#developer-tools)
