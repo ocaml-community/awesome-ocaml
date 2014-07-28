@@ -146,6 +146,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [99 problems](http://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here](https://github.com/MassD/99).
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
+- [OCaml at Exercism](http://help.exercism.io/getting-started-with-ocaml.html) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code.
 
 
 ## General
