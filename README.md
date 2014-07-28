@@ -17,6 +17,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Application Libraries](#application-libraries)
 - [Books](#books)
+- [Code Analysis And Linters](#code-analysis-and-linters)
 - [Compilers](#compilers)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
@@ -25,7 +26,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [General](#general)
 - [Graphics](#graphics)
 - [Language-related](#language-related)
-- [Linters](#linters)
 - [Logging](#logging)
 - [Metaprogramming](#metaprogramming)
 - [Networking](#networking)
@@ -78,6 +78,12 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Purely Functional Data Structures](http://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
 
 
+## Code Analysis And Linters
+
+- [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
+- [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+
+
 ## Compilers
 
 - **Compilers Written in OCaml**:
@@ -120,7 +126,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Try OCaml](http://try.ocamlpro.com/) – Try OCaml in your web browser.
 - [iocaml](https://github.com/andrewray/iocaml) – An OCaml kernel for the IPython notebook.
-- [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [utop](https://github.com/diml/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
 - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) — Small ncurses-based API and documentation browser. Provided with ocp-index.
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) — A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
@@ -175,11 +180,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 - [mikmatch](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
-
-
-## Linters
-
-- [Mascot](http://mascot.x9c.fr/)
 
 
 ## Logging
