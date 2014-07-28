@@ -26,6 +26,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [General](#general)
 - [Graphics](#graphics)
 - [Language-related](#language-related)
+- [Linters](#linters)
 - [Logging](#logging)
 - [Metaprogramming](#metaprogramming)
 - [Networking](#networking)
@@ -180,6 +181,11 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 - [mikmatch](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
+
+
+## Linters
+
+- [Mascot](http://mascot.x9c.fr/)
 
 
 ## Logging
