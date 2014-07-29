@@ -177,6 +177,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [lablgtk](http://lablgtk.forge.ocamlcore.org/) — GTK2 bindings for OCaml with various higher-level facilities to define GUIs.
   - [lablqt](https://github.com/Kakadu/lablqt) – Qt5 bindings for OCaml.
   - [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
+  - [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
 
 
 ## Language-related
