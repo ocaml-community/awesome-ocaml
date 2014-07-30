@@ -16,6 +16,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Community](#community)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Application Libraries](#application-libraries)
+- [Automated Theorem Proving](#automated-theorem-proving)
 - [Books](#books)
 - [Code Analysis and Linters](#code-analysis-and-linters)
 - [Compilers and Compiler Tools](#compilers-and-compiler-tools)
@@ -65,6 +66,12 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ctypes](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
 - [easy-format](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 - [ocaml-rpc](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
+
+
+## Automated Theorem Proving
+
+- [Coq](http://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
+- [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
 
 
 ## Books
