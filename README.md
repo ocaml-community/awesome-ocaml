@@ -287,6 +287,11 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [yojson](http://mjambon.com/yojson.html) — An optimized parsing and printing library for the JSON format.
 
 
+## Syntax Extensions
+
+- [pa_monad](https://github.com/danmey/omonad) – Monad syntax using ppx extensions.
+
+
 ## System Programming
 
 - [Mirage OS](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
