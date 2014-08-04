@@ -38,7 +38,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Semantic Technology](#semantic-technology)
 - [Serialization](#serialization)
 - [System Programming](#system-programming)
-- [Syntax Extensions](#syntax-extensions)
 - [Testing](#testing)
 - [Web Development](#web-development)
 
