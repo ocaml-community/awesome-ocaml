@@ -38,6 +38,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Semantic Technology](#semantic-technology)
 - [Serialization](#serialization)
 - [System Programming](#system-programming)
+- [Syntax Extensions](#syntax-extensions)
 - [Testing](#testing)
 - [Web Development](#web-development)
 
@@ -198,6 +199,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 - [mikmatch](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
+- [Inlined records in constructors](http://www.lexifi.com/blog/inlined-records-constructors)
 
 
 ## Logging
@@ -212,6 +214,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Extension Points, or how OCaml is becoming more like Lisp](https://blogs.janestreet.com/extension-points-or-how-ocaml-is-becoming-more-like-lisp)
 - [Syntax extensions without Camlp4: let's do it!](http://www.lexifi.com/blog/syntax-extensions-without-camlp4-lets-do-it)
 - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
+- [camlp5](http://camlp5.gforge.inria.fr/) - Camlp5 is a preprocessor-pretty-printer of OCaml. 
+- [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
 
 
 ## Networking
@@ -291,9 +295,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 ## Syntax Extensions
 
-- [pa_monad](https://github.com/danmey/omonad) – Monad syntax using ppx extensions.
-- [camlp5](http://camlp5.gforge.inria.fr/) - Camlp5 is a preprocessor-pretty-printer of OCaml. 
-- [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
+- [omonad](https://github.com/danmey/omonad) – Monad syntax using ppx extensions.
+- [ppx_import](https://github.com/whitequark/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
 
 
 ## System Programming
