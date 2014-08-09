@@ -49,6 +49,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Official OCaml Website](http://ocaml.org/)
 - [Official OCaml Mailing List](http://caml.inria.fr/resources/forums.en.html)
 - [OCaml Planet](http://planet.ocamlcore.org/)
+- [OCaml SubReddit](http://reddit.com/r/ocaml)
 
 
 ## Algorithms and Data Structures
