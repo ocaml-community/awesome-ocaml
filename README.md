@@ -89,7 +89,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Compilers and Compiler Tools
 
 - **Compilers Written in OCaml**:
-  - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features. 
+  - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features.
   - [Compcert C Compiler](http://compcert.inria.fr/) - It is a C Compiler supporting most of the ISO C90 and C99 / ANSI C  features.
   - [Hack Programming Language](http://hacklang.org/)
   - [Haxe Programming Language](http://haxe.org/)
@@ -220,7 +220,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Tools and Language Extensions**:
   - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
   - [Fan](http://thinkinginmeta.com/Fan) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
-  - [camlp5](http://camlp5.gforge.inria.fr/) - Camlp5 is a preprocessor-pretty-printer of OCaml. 
+  - [camlp5](http://camlp5.gforge.inria.fr/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
 
 
