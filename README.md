@@ -329,7 +329,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Goji](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
   - [Syndic](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
 
-- **Open Source Projecs**:
+- **Open Source Projects**:
   - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
 
 * * *
