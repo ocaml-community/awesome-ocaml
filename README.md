@@ -94,6 +94,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Hack Programming Language](http://hacklang.org/)
   - [Haxe Programming Language](http://haxe.org/)
   - [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in OCaml.
+  - [Mezzo Programming Language](http://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
   - [OCaml-Java](http://www.ocamljava.org) - OCaml to Java bytecode compiler.
   - [Opa Programming Language](http://opalang.org/)
   - [Rust Programming Language](http://rust-lang.org) - Originally written in OCaml before bootstrapping.
