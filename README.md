@@ -104,6 +104,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Parser and Lexer Generators**:
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir) – Menhir is a LR(1) parser generator for OCaml.
   - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex and yacc implementation for OCaml.
+- **Articles**:
+  - [Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)
 
 
 ## Concurrency
