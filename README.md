@@ -201,6 +201,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 - [mikmatch](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
 - [Inlined records in constructors](http://www.lexifi.com/blog/inlined-records-constructors)
+- [Algebraic Data Types](http://tech.esper.com/2014/07/30/algebraic-data-types/)
 
 
 ## Logging
