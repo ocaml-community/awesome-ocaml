@@ -130,6 +130,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Overlays**
   - [Macaque](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
   - [ORM](https://github.com/mirage/orm/) — ORM for SQLite.
+- **Articles**:
+  - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](http://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
 
 
 ## Developer Tools
