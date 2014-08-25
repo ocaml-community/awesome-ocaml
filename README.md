@@ -3,7 +3,7 @@ Awesome OCaml
 
 > _**Everything you'll ever need on the road to mastering OCaml.**_
 
-![ocaml](colour-logo.png)
+<center><img src="colour-logo.png" width="90%" /></center>
 
 A curated list of references to awesome OCaml tools, frameworks, libraries and articles. Additionally there is a collection of freely available [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) and [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
 
