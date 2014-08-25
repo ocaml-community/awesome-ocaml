@@ -177,6 +177,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Python to OCaml: retrospective](http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective/)
 - [OCaml for the Masses](http://queue.acm.org/detail.cfm?id=2038036)
 - [Why We Use OCaml](http://tech.esper.com/2014/07/15/why-we-use-ocaml/)
+- [Why OCaml?](http://www.mimisbrunnr.net/~munin/blog/why-ocaml.html)
 - [Xen – OCaml Coding Considerations](http://wiki.xen.org/wiki/OCaml_Coding_Considerations)
 - [Monads are a class of hard drugs](http://lambda-diode.com/programming/monads-are-a-class-of-hard-drugs)
 - [Beginner's guide to OCaml](http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html)
