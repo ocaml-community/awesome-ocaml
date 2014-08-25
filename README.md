@@ -304,6 +304,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 # Science
 
 - [biocaml](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
+- [guizmin](https://github.com/pveber/guizmin) – OCaml library for building bioinformatics pipelines.
 
 
 ## Security
