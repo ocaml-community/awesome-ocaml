@@ -29,6 +29,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Language-related](#language-related)
 - [Logging](#logging)
 - [Metaprogramming](#metaprogramming)
+- [Mobile Applications](#mobile-applications)
 - [Networking](#networking)
 - [Online Courses](#online-courses)
 - [Package Management](#package-management)
@@ -231,6 +232,11 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [camlp5](http://camlp5.gforge.inria.fr/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
 
+
+## Mobile Applications
+
+- **Articles**:
+  - [OCaml on iOS 7 Released](http://psellos.com/2014/08/2014.08.ocamlxarm-402.html)
 
 
 ## Networking
