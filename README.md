@@ -215,6 +215,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Algebraic Data Types](http://tech.esper.com/2014/07/30/algebraic-data-types/)
 - [XEN – OCaml Best Practices for Developers](http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers)
 - [OCaml Style Guide](https://github.com/pyrocat101/ocaml-style-guide)
+- [A safe but strange way of modifying OCaml compiler](https://bitbucket.org/camlspotter/compiler-libs-hack)
 
 
 
