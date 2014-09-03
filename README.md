@@ -35,7 +35,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Package Management](#package-management)
 - [Parallelism](#parallelism)
 - [Questions](#questions)
-- [Science](#science)
+- [Science and Technical Computing](#science-and-technical-computing)
 - [Security](#security)
 - [Semantic Technology](#semantic-technology)
 - [Serialization](#serialization)
@@ -306,10 +306,11 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [OCaml - polymorphic print and type losing](http://stackoverflow.com/questions/7442449/ocaml-polymorphic-print-and-type-losing)
 
 
-# Science
+# Science and Technical Computing
 
 - [biocaml](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 - [guizmin](https://github.com/pveber/guizmin) – OCaml library for building bioinformatics pipelines.
+- [onumerical](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
 
 
 ## Security
