@@ -217,6 +217,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [XEN – OCaml Best Practices for Developers](http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers)
 - [OCaml Style Guide](https://github.com/pyrocat101/ocaml-style-guide)
 - [A safe but strange way of modifying OCaml compiler](https://bitbucket.org/camlspotter/compiler-libs-hack)
+- [Fiddling with the OCaml Type System](http://technotroph.wordpress.com/2013/10/25/fiddling-with-the-ocaml-type-system/)
 
 
 
