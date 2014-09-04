@@ -189,6 +189,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [A blog about game development in OCaml](http://cranialburnout.blogspot.ca/)
 - [(Functional) Alternatives to inheritance](http://ocamltutorials.blogspot.se/2013/06/alternatives-to-subtyping.html)
 - [camlPDF](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
+- [capnp-ocaml 2.0: The Road to Unembarrassing Performance](http://pelzlpj.github.io/capnp-ocaml/2014/09/02/capnp-ocaml-2.0/)
 
 
 ## Graphics
@@ -330,6 +331,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
 - [yojson](http://mjambon.com/yojson.html) — An optimized parsing and printing library for the JSON format.
+- 
 
 
 ## System Programming
