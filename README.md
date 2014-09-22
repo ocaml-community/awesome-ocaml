@@ -274,7 +274,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Distribution**:
   - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
-  -	[WODI for Windows](http://wodi.forge.ocamlcore.org/) - A package manager for Windows.
+  -	[WODI forx Windows](http://wodi.forge.ocamlcore.org/) - A package manager for Windows.
+  -	[makorel](https://github.com/sagotch/makorel) – Release OPAM packages easily.
 
 - **Build Tools**:
   - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
