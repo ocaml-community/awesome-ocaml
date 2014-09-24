@@ -97,6 +97,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Compilers Written in OCaml**:
   - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features.
   - [Compcert C Compiler](http://compcert.inria.fr/) - It is a C Compiler supporting most of the ISO C90 and C99 / ANSI C  features.
+  - [Eff Programming Language](http://www.eff-lang.org/) - Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
   - [Hack Programming Language](http://hacklang.org/)
   - [Haxe Programming Language](http://haxe.org/)
   - [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in OCaml.
@@ -274,7 +275,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Distribution**:
   - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
-  -	[WODI forx Windows](http://wodi.forge.ocamlcore.org/) - A package manager for Windows.
+  -	[WODI for Windows](http://wodi.forge.ocamlcore.org/) - A package manager for Windows.
   -	[makorel](https://github.com/sagotch/makorel) – Release OPAM packages easily.
 
 - **Build Tools**:
