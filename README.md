@@ -16,6 +16,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Community](#community)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Application Libraries](#application-libraries)
+- [Blogs](#blogs)
 - [Books](#books)
 - [Code Analysis and Linters](#code-analysis-and-linters)
 - [Compilers and Compiler Tools](#compilers-and-compiler-tools)
@@ -73,6 +74,9 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ocaml-rpc](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
 - [ocaml-containers](https://github.com/c-cube/ocaml-containers) – A small standard library extension, string library, and (in "misc") a bunch of random things of lower quality. BSD license.
 
+## Blogs
+
+- [Many things about OCaml](http://typeocaml.com)
 
 ## Books
 
