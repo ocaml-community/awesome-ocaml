@@ -76,7 +76,9 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 ## Blogs
 
+- [Gagallium](http://gallium.inria.fr/blog/)
 - [Many things about OCaml](http://typeocaml.com)
+- [OCaml Platform](https://opam.ocaml.org/blog/)
 
 ## Books
 
