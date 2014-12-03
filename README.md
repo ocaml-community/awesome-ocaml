@@ -36,6 +36,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Package Management](#package-management)
 - [Parallelism](#parallelism)
 - [Questions](#questions)
+- [Regular Expressions](#regular-expressions)
 - [Science and Technical Computing](#science-and-technical-computing)
 - [Security](#security)
 - [Semantic Technology](#semantic-technology)
@@ -327,6 +328,10 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [guizmin](https://github.com/pveber/guizmin) – OCaml library for building bioinformatics pipelines.
 - [onumerical](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
 
+## Regular Expressions
+
+- [Re](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
+- [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 
 ## Security
 
@@ -345,6 +350,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
 - [yojson](http://mjambon.com/yojson.html) — An optimized parsing and printing library for the JSON format.
+- [sexplib](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 
 ## System Programming
