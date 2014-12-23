@@ -138,6 +138,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — PG'OCaml provides an interface to PostgreSQL databases for OCaml applications.
   - [SQLite3](https://github.com/mmottl/sqlite3-ocaml/) — OCaml bindings to the SQLite3 database.
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
+  - [ocaml-redis](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
 - **New Implementations**
   - [Irmin](https://github.com/mirage/irmin) — A distributed database that follows the same design principles as Git.
   - [Obigstore](http://obigstore.forge.ocamlcore.org/) — A database with BigTable-like data model atop LevelDB.
