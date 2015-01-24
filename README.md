@@ -7,7 +7,12 @@ Awesome OCaml
 
 A curated list of references to awesome OCaml tools, frameworks, libraries and articles. Additionally there is a collection of freely available [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) and [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
 
-Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it! :octocat:
+Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
+
+:octocat:
+
+:bomb:
+
 
 If you are beginner and want to learn the basics of OCaml programming here is the [**Beginner's guide to OCaml beginner's guides**](http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html).
 
