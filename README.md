@@ -334,6 +334,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [biocaml](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 - [guizmin](https://github.com/pveber/guizmin) – OCaml library for building bioinformatics pipelines.
 - [onumerical](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
+- [oml](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
+- [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
 
 ## Regular Expressions
 
