@@ -376,6 +376,11 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Alcotest](https://github.com/samoht/alcotest) – A lightweight and colourful test framework.
 - [OUnit](https://github.com/warrenharris/ounit) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
 - [QCheck](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+- [iTeML]([iTeML]:https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/)) supports inline pragma's to generate tests.
+- [Kaputt]([Kaputt]:http://kaputt.x9c.fr) comprehensive testing framework.
+- [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) General inline testing macro's.
+  
+ 
 
 ## Web Development
 
