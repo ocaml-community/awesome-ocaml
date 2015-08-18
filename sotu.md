@@ -17,8 +17,31 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 ## Compilers and Programming Language Tools
 
 - **Rating**: Best in class
-- **Notable libraries**: ...
-- **Educational resources**: ...
+
+- **Compilers Written in OCaml**:
+  - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features.
+  - [Compcert C Compiler](http://compcert.inria.fr/) - It is a C Compiler supporting most of the ISO C90 and C99 / ANSI C  features.
+  - [Eff Programming Language](http://www.eff-lang.org/) - Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
+  - [Hack Programming Language](http://hacklang.org/)
+  - [Haxe Programming Language](http://haxe.org/)
+  - [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in OCaml.
+  - [Mezzo Programming Language](http://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
+  - [OCaml-Java](http://www.ocamljava.org) - OCaml to Java bytecode compiler.
+  - [Rhine](https://github.com/artagnon/rhine) – A Lisp on LLVM written in OCaml.
+  - [Rust Programming Language](http://rust-lang.org) - Originally written in OCaml before bootstrapping.
+  - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+  - [Others](http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=88) - Some other compilers implemented in OCaml, quite a few dead now.
+
+- **Parser and Lexer Generators**:
+  - [Menhir](http://gallium.inria.fr/~fpottier/menhir) – Menhir is a refined (LA)LR(1) parser generator for OCaml.
+  - [dypgen](http://dypgen.free.fr/) – Self-extensible GLR parser generator
+  - [ocamllex](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex (and yacc) implementation for OCaml.
+  - [Opal](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
+  - [DeCaP](http://lama.univ-savoie.fr/decap/) – Parser generator (aiming at efficiency)
+
+- **Articles**:
+  - [Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)
+  - [Getting started with OCaml bindings for LLVM](http://nopaniers.calepin.co/getting-started-with-ocaml-bindings-for-llvm.html)
 
 ## Formal Verification
 
