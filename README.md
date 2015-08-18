@@ -172,6 +172,9 @@ If you are beginner and want to learn the basics of OCaml programming here is th
     - [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
   - [ocp-indent](http://www.typerex.org/ocp-indent.html) — Indentation tool for OCaml, to be used from editors like Emacs and Vim.
     - [Vim interface](https://github.com/def-lkb/ocp-indent-vim).
+- Code coverage
+  - [Bisect](http://bisect.x9c.fr/) 
+  - [Bisect_ppx](https://github.com/rleonid/bisect_ppx) a more recent fork of the previous tool.
 
 
 ## Exercises
@@ -331,6 +334,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [biocaml](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 - [guizmin](https://github.com/pveber/guizmin) – OCaml library for building bioinformatics pipelines.
 - [onumerical](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
+- [oml](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
+- [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
 
 ## Regular Expressions
 
@@ -371,6 +376,11 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Alcotest](https://github.com/samoht/alcotest) – A lightweight and colourful test framework.
 - [OUnit](https://github.com/warrenharris/ounit) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
 - [QCheck](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+- [iTeML](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
+- [Kaputt](http://kaputt.x9c.fr) —  comprehensive testing framework.
+- [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
+  
+ 
 
 ## Web Development
 
