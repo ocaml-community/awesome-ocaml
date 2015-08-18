@@ -11,69 +11,121 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 - **Immature**: only acceptable for early-adopters
 - **Bad**: pretty unusable
 
+# Application Domains
+<br/>
 
-## Algorithms and Data Structures
+## Compilers and Programming Language Tools
 
-- **Rating**: ...
+- **Rating**: Best in class
+
+- **Compilers written in OCaml**:
+
+  - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features.
+  - [Compcert C Compiler](http://compcert.inria.fr/) - It is a C Compiler supporting most of the ISO C90 and C99 / ANSI C  features.
+  - [Eff Programming Language](http://www.eff-lang.org/) - Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
+  - [Hack Programming Language](http://hacklang.org/)
+  - [Haxe Programming Language](http://haxe.org/)
+  - [Neko Programming Language](http://nekovm.org) - Originally the compiler was written in OCaml.
+  - [Mezzo Programming Language](http://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
+  - [OCaml-Java](http://www.ocamljava.org) - OCaml to Java bytecode compiler.
+  - [Rhine](https://github.com/artagnon/rhine) – A Lisp on LLVM written in OCaml.
+  - [Rust Programming Language](http://rust-lang.org) - Originally written in OCaml before bootstrapping.
+  - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+  - [Others](http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=88) - Some other compilers implemented in OCaml, quite a few dead now.
+
+- **Parser and Lexer Generators**:
+  - [Menhir](http://gallium.inria.fr/~fpottier/menhir) – Menhir is a refined (LA)LR(1) parser generator for OCaml.
+  - [dypgen](http://dypgen.free.fr/) – Self-extensible GLR parser generator
+  - [ocamllex](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex (and yacc) implementation for OCaml.
+  - [Opal](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
+  - [DeCaP](http://lama.univ-savoie.fr/decap/) – Parser generator (aiming at efficiency)
+
+- **Articles**:
+  - [Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)
+  - [Getting started with OCaml bindings for LLVM](http://nopaniers.calepin.co/getting-started-with-ocaml-bindings-for-llvm.html)
+
+## Formal Verification
+
+- **Rating**: Best in class
+
+- **Notable projects**:
+
+  - [Coq](http://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
+  - [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
+  - [Frama-C](http://frama-c.com/what_is.html): static analysis toolbox for the C language
+  - [TLA+](https://tla.msr-inria.inria.fr/tlaps/content/Download/Source.html): modeling and verification of concurrent and distributed systems
+  - [Astrée](http://www.astree.ens.fr/): abstract-analysis based program analyzer
+  - [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
+
+- **Educational resources**: ...
+
+## Scientific Computing
+
+- **Rating**: Immature
 - **Notable libraries**: ...
 - **Educational resources**: ...
 
+## Web Development
 
-## Code Analysis and Linters
-
-- **Rating**: ...
+- **Rating**: Immature
 - **Notable libraries**: ...
 - **Educational resources**: ...
-
-
-## Compilers and Compiler Tools
-
-- **Rating**: ...
-- **Notable libraries**: ...
-- **Educational resources**: ...
-
-
-## Concurrency
-
-- **Rating**: ...
-- **Notable libraries**: ...
-- **Educational resources**: ...
-
-
-## Databases
-
-- **Rating**: ...
-- **Notable libraries**: ...
-- **Educational resources**: ...
-
-
-## Developer Tools
-
-- **Rating**: ...
-- **Notable libraries**: ...
-- **Educational resources**: ...
-
-
-## Formal Software Verification
-
-- **Rating**: ...
-- **Notable libraries**: ...
-- **Educational resources**: ...
-
-
-## Graphics
-
-- **Rating**: ...
-- **Notable libraries**: ...
-- **Educational resources**: ...
-
 
 ## Mobile Applications
 
-- **Rating**: ...
+- **Rating**: Immature
 - **Notable libraries**: ...
 - **Educational resources**: ...
 
+## System Programming
+
+- **Rating**: Immature
+- **Notable libraries**: ...
+- **Educational resources**: ...
+
+
+
+
+
+
+# Programming ecosystem
+<br/>
+
+## Algorithms and Data Structures
+
+- **Rating**: Mature
+- **Notable libraries**: ...
+- **Educational resources**: ...
+
+## Code Analysis and Linters
+
+- **Rating**: Immature
+- **Notable libraries**: ...
+- **Educational resources**: ...
+
+## Parallelism and concurrency
+
+- **Rating**: Immature
+- **Notable libraries**: ...
+- **Educational resources**: ...
+
+## Databases
+
+- **Rating**: Immature
+- **Notable libraries**: ...
+- **Educational resources**: ...
+
+## Developer Tools
+
+- **Rating**: Immature
+- **Notable libraries**: ...
+- **Educational resources**: ...
+
+## Graphics
+
+- **Rating**: Immature
+- **Notable libraries**: ...
+- **Educational resources**: ...
 
 ## Networking
 
@@ -81,68 +133,36 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 - **Notable libraries**: ...
 - **Educational resources**: ...
 
-
 ## Package Management
 
-- **Rating**: ...
+- **Rating**: Mature
 - **Notable libraries**: ...
 - **Educational resources**: ...
 
-
-## Parallelism
-
-- **Rating**: ...
-- **Notable libraries**: ...
-- **Educational resources**: ...
-
-
-## Science and Technical Computing
+## Communication protocols
 
 - **Rating**: ...
 - **Notable libraries**: ...
 - **Educational resources**: ...
 
-
-## Security
-
-- **Rating**: ...
-- **Notable libraries**: ...
-- **Educational resources**: ...
-
-
-## Semantic Technology
+## Data Formats
 
 - **Rating**: ...
 - **Notable libraries**: ...
 - **Educational resources**: ...
-
 
 ## Serialization
 
-- **Rating**: ...
+- **Rating**: Mature
 - **Notable libraries**: ...
 - **Educational resources**: ...
-
-
-## System Programming
-
-- **Rating**: ...
-- **Notable libraries**: ...
-- **Educational resources**: ...
-
 
 ## Testing
 
-- **Rating**: ...
+- **Rating**: Mature
 - **Notable libraries**: ...
 - **Educational resources**: ...
 
-
-## Web Development
-
-- **Rating**: ...
-- **Notable libraries**: ...
-- **Educational resources**: ...
 
 
 
