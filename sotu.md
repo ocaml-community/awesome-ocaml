@@ -80,7 +80,9 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 ## System Programming
 
 - **Rating**: Immature
-- **Notable libraries**: ...
+- **Notable libraries**:
+    - [Cmdliner](http://erratique.ch/software/cmdliner/doc/Cmdliner.html) – Cmdliner is a powerful library for defining command line interfaces in a declarative fashion, include the support for subcommands.
+    - [fileutils](https://forge.ocamlcore.org/projects/ocaml-fileutils/) – File manipulation utilties, such as (recursive) directory removal, and path manipulation.
 - **Educational resources**: ...
 
 
@@ -106,7 +108,9 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 ## Parallelism and concurrency
 
 - **Rating**: Immature
-- **Notable libraries**: ...
+- **Notable libraries**:
+    - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
+    - [Async](http://janestreet.github.io/) — A monadic concurrence library to go with the Core library.
 - **Educational resources**: ...
 
 ## Databases
