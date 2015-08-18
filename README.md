@@ -9,7 +9,7 @@ A curated list of references to awesome OCaml tools, frameworks, libraries and a
 
 A community-driven review of the current state of the OCaml ecosystem and its suitability for various programming domains and tasks can be found in:
 
-- [State of the OCaml Ecosystem - August 2015](/rizo/awesome-ocaml/blob/master/sotu.md)
+- [State of the OCaml Ecosystem - August 2015](https://github.com/rizo/awesome-ocaml/blob/master/sotu.md)
 
 Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
 
