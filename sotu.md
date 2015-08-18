@@ -18,7 +18,8 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 
 - **Rating**: Best in class
 
-- **Compilers Written in OCaml**:
+- **Compilers written in OCaml**:
+
   - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features.
   - [Compcert C Compiler](http://compcert.inria.fr/) - It is a C Compiler supporting most of the ISO C90 and C99 / ANSI C  features.
   - [Eff Programming Language](http://www.eff-lang.org/) - Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
@@ -46,7 +47,16 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 ## Formal Verification
 
 - **Rating**: Best in class
-- **Notable libraries**: ...
+
+- **Notable projects**:
+
+  - [Coq](http://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
+  - [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
+  - [Frama-C](http://frama-c.com/what_is.html): static analysis toolbox for the C language
+  - [TLA+](https://tla.msr-inria.inria.fr/tlaps/content/Download/Source.html): modeling and verification of concurrent and distributed systems
+  - [Astrée](http://www.astree.ens.fr/): abstract-analysis based program analyzer
+  - [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
+
 - **Educational resources**: ...
 
 ## Scientific Computing
