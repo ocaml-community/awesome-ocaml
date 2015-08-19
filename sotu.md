@@ -82,7 +82,7 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 - **Rating**: Immature
 - **Notable libraries**:
     - [Cmdliner](http://erratique.ch/software/cmdliner/doc/Cmdliner.html) – Cmdliner is a powerful library for defining command line interfaces in a declarative fashion, include the support for subcommands.
-    - [fileutils](https://forge.ocamlcore.org/projects/ocaml-fileutils/) – File manipulation utilties, such as (recursive) directory removal, and path manipulation.
+    - [fileutils](https://forge.ocamlcore.org/projects/ocaml-fileutils/) – File manipulation utilities, such as (recursive) directory removal, and path manipulation.
 - **Educational resources**: ...
 
 
