@@ -79,10 +79,12 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 
 ## System Programming
 
-- **Rating**: Immature
+- **Rating**: Mature
 - **Notable libraries**:
-    - [Cmdliner](http://erratique.ch/software/cmdliner/doc/Cmdliner.html) – Cmdliner is a powerful library for defining command line interfaces in a declarative fashion, include the support for subcommands.
-    - [fileutils](https://forge.ocamlcore.org/projects/ocaml-fileutils/) – File manipulation utilities, such as (recursive) directory removal, and path manipulation.
+
+    - XenServer's [XAPI](https://github.com/xapi-project/xen-api) toolstack
+    - [MirageOS](https://mirage.io/)  – a library operating system that constructs unikernels
+
 - **Educational resources**: ...
 
 
@@ -109,8 +111,8 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 
 - **Rating**: Immature
 - **Notable libraries**:
-    - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
-    - [Async](http://janestreet.github.io/) — A monadic concurrence library to go with the Core library.
+    - [Lwt](http://ocsigen.org/lwt/) — A stand-alone monadic cooperative threading library.
+    - [Async](http://janestreet.github.io/) — A monadic cooperative threading library integrated with the Core library.
 - **Educational resources**: ...
 
 ## Databases
@@ -131,6 +133,25 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 - **Notable libraries**: ...
 - **Educational resources**: ...
 
+## System interaction
+
+- **Rating**: Mature
+- **Notable libraries**:
+    - [fileutils](https://forge.ocamlcore.org/projects/ocaml-fileutils/) – File manipulation utilties, such as (recursive) directory removal, and path manipulation.
+    - [ExtUnix](https://github.com/ygrek/extunix) – interface to common
+      and platform-specific Unix system functions
+D-Bus (system libraries)
+    - [Libvirt](https://libvirt.org/ocaml/) – a portable toolkit to interact with the virtualisation capabilities of Linux, Solaris and other operating systems.
+
+## Foreign Function Interfaces
+
+## User interfaces
+
+- **Rating**: Immature
+- **Notable libraries**:
+    - [Cmdliner](http://erratique.ch/software/cmdliner/doc/Cmdliner.html) – Cmdliner is a powerful library for defining command line interfaces in a declarative fashion, include the support for subcommands.
+
+
 ## Networking
 
 - **Rating**: ...
@@ -147,6 +168,7 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 
 - **Rating**: ...
 - **Notable libraries**: ...
+    - [Obus](https://github.com/diml/obus) – pure-OCaml (and fast!) implementation of the DBus protocol
 - **Educational resources**: ...
 
 ## Data Formats
