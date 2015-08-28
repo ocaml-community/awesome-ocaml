@@ -62,7 +62,26 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 ## Scientific Computing
 
 - **Rating**: Immature
-- **Notable libraries**: ...
+- **Notable libraries**:
+    - [Lacaml](http://mmottl.github.io/lacaml): OCaml-bindings to BLAS and LAPACK.
+    - [Gsl](http://mmottl.github.io/gsl-ocaml): Bindings to the GNU Scientific Library.
+    - [Sundials/ML](http://inria-parkas.github.io/sundialsml/) is an interface to the Sundials 
+      suite of numerical solvers.
+    - [odepack](http://forge.ocamlcore.org/projects/odepack/): Binding to ODEPACK.
+    - [optimization1d](http://forge.ocamlcore.org/projects/optimization1d/): 
+      Find extrema of 1D functions.
+    - [Lbfgs](https://github.com/Chris00/L-BFGS-ocaml): Minimization of multidimensional 
+      functions on bounded or unbounded domains.  Binding to
+      [L-BFGS-B](http://users.iems.northwestern.edu/~nocedal/lbfgsb.html).
+    - [FFTW3](https://github.com/Chris00/fftw-ocaml): Binding to the famous Fast Fourier
+      Transform library [FFTW](http://www.fftw.org/).
+    - [mesh](https://github.com/Chris00/mesh): Triangular mesh generation and manipulation.
+    - [root1d](http://forge.ocamlcore.org/projects/root1d/): Find roots of 1D functions.
+    - [integration1d](http://forge.ocamlcore.org/projects/integration1d/): Integration of 
+      functions of one variable (inspired from QUADPACK).
+    - [nlopt](https://bitbucket.org/mkur/nlopt-ocaml/): bindings to the
+      [NLOpt](http://ab-initio.mit.edu/wiki/index.php/NLopt) optimization library. 
+
 - **Educational resources**: ...
 
 ## Web Development
