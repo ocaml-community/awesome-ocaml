@@ -18,6 +18,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Contents
 
 - [Community](#community)
+- [Style Guide](#style-guide)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Application Libraries](#application-libraries)
 - [Blogs](#blogs)
@@ -58,6 +59,11 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Official OCaml Mailing List](http://caml.inria.fr/resources/forums.en.html)
 - [OCaml Planet](http://ocaml.org/community/planet/)
 - [OCaml SubReddit](http://reddit.com/r/ocaml)
+
+
+## Style Guide
+
+- [OCaml Style Guide](https://github.com/pyrocat101/ocaml-style-guide)
 
 
 ## Algorithms and Data Structures
