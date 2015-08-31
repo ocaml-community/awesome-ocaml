@@ -96,14 +96,18 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 # Programming ecosystem
 <br/>
 
-## Algorithms and Data Structures
+## Extensions or Replacements to stdlib
 
-- **Rating**: Mature
 - **Notable libraries**:
   * [batteries-included](http://batteries.forge.ocamlcore.org/): a community-driven stdlib replacement
     with many data structures
   * [Core](https://github.com/janestreet/core_kernel): JaneStreet's replacement for the stdlib
   * [containers](https://github.com/c-cube/ocaml-containers): modular collection of data structures
+
+## Algorithms and Data Structures
+
+- **Rating**: Mature
+- **Notable libraries**:
   * [htmt](https://github.com/rgrinberg/ocaml-hamt): Hash Array Mapped Tries
   * [ocamlgraph](http://ocamlgraph.lri.fr/): powerful graph library
 - **Educational resources**: ...
