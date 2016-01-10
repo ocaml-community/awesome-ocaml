@@ -102,6 +102,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
 - [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [infer](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C
+- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
 
 
 ## Compilers and Compiler Tools
