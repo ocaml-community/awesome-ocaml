@@ -288,6 +288,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [lwt-zmq](https://github.com/hcarty/lwt-zmq) – Lwt-friendly interface to ZeroMQ for OCaml.
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 - [onanomsg](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
+- [fluent-logger](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 
 
 ## Online Courses
