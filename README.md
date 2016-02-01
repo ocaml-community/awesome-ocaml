@@ -214,7 +214,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [camlPDF](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
 - [capnp-ocaml 2.0: The Road to Unembarrassing Performance](http://pelzlpj.github.io/capnp-ocaml/2014/09/02/capnp-ocaml-2.0/)
 - [slacko](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
-
+- [Learn X in Y minutes](https://learnxinyminutes.com/docs/ocaml/) - Where X=OCaml.
 
 ## Graphics
 
