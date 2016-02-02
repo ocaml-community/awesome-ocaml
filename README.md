@@ -95,7 +95,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
 - [Using, Understanding, and Unraveling OCaml](http://caml.inria.fr/pub/docs/u3-ocaml) – This book describes both the OCaml language and the theoretical grounds behind its powerful type system.
 - [Purely Functional Data Structures](http://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
-
+- [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrod.
 
 ## Code Analysis and Linters
 
@@ -214,7 +214,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [camlPDF](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
 - [capnp-ocaml 2.0: The Road to Unembarrassing Performance](http://pelzlpj.github.io/capnp-ocaml/2014/09/02/capnp-ocaml-2.0/)
 - [slacko](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
-
+- [Learn X in Y minutes](https://learnxinyminutes.com/docs/ocaml/) - Where X=OCaml.
 
 ## Graphics
 
@@ -240,7 +240,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Inlined records in constructors](http://www.lexifi.com/blog/inlined-records-constructors)
 - [Algebraic Data Types](http://tech.esper.com/2014/07/30/algebraic-data-types/)
 - [XEN – OCaml Best Practices for Developers](http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers)
-- [OCaml Style Guide](https://github.com/pyrocat101/ocaml-style-guide)
+- [OCaml Style Guide](https://github.com/pyrocat101/ocaml-style-guide) - See also: [[1]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html), [[2]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [[3]](https://www.seas.upenn.edu/~cis120/current/programming_style.shtml).
 - [A safe but strange way of modifying OCaml compiler](https://bitbucket.org/camlspotter/compiler-libs-hack)
 - [Fiddling with the OCaml Type System](http://technotroph.wordpress.com/2013/10/25/fiddling-with-the-ocaml-type-system/)
 
@@ -342,6 +342,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [biocaml](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 - [guizmin](https://github.com/pveber/guizmin) – OCaml library for building bioinformatics pipelines.
+- [lacaml](https://mmottl.github.io/lacaml/) - OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries).
 - [onumerical](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
 - [oml](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
 - [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
