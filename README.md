@@ -167,6 +167,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) — Small ncurses-based API and documentation browser. Provided with ocp-index.
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) — A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 - [ghim](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
+- [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) – Yeoman generator to scaffold OCaml modules.
 - **Foreign Function Interface**:
   - [ocaml-main-program-in-c](https://github.com/johnwhitington/ocaml-main-program-in-c) – Example build system for making mixed C/Ocaml binaries where the main program is in C.
   - [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
