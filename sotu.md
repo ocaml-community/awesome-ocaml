@@ -87,7 +87,16 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 ## Web Development
 
 - **Rating**: Immature
-- **Notable libraries**: ...
+- **Notable libraries**:
+   - [COW](github.com/mirage/ocaml-cow): Set of tools and syntax extensions for generating
+     and manipulating HTML, CSS, and XML with OCaml.
+   - [Ocsigen](ocsigen.org): High-level framework for developing client-server applications
+     in OCaml
+   - [JS of OCaml (JSOO)](https://github.com/ocsigen/js_of_ocaml): Compiler from OCaml bytecode
+     to JavaScript, intended to be used for large, high-performance projects.
+   - [OCamlScript](https://github.com/bloomberg/ocamlscript): Compiler from OCaml source
+     code to JavaScript source code, intended to be used to produce small, literate pieces
+     of JavaScript
 - **Educational resources**: ...
 
 ## Mobile Applications
@@ -123,7 +132,9 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 ## Code Analysis and Linters
 
 - **Rating**: Immature
-- **Notable libraries**: ...
+- **Notable libraries**:
+  - [OCamlLint](https://github.com/cryptosense/ocamllint): Linter for finding common security and performance
+     problems in OCaml programs.
 - **Educational resources**: ...
 
 ## Parallelism and concurrency
@@ -137,7 +148,10 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 ## Databases
 
 - **Rating**: Immature
-- **Notable libraries**: ...
+- **Notable libraries**:
+    - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/): Bindings to the PostgreSQL database
+    - [SQLite3-OCaml](https://github.com/mmottl/sqlite3-ocaml): Bindings to the SQLite3 database
+    - [Irmin](https://github.com/mirage/irmin): A distributed database based on Git, written in OCaml
 - **Educational resources**: ...
 
 ## Developer Tools
