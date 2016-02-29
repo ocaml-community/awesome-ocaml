@@ -315,6 +315,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [ocamlbuild](http://ocaml.org/learn/tutorials/ocamlbuild/) — Build system provided with the compiler.
   - [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
   - [topkg](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
+  - [Namespaces](https://github.com/aantron/namespaces) - ocamlbuild plugin that converts your directory tree into nested modules.
 
 
 ## Parallelism
