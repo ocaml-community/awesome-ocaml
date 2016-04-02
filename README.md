@@ -181,7 +181,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [ocp-indent](http://www.typerex.org/ocp-indent.html) — Indentation tool for OCaml, to be used from editors like Emacs and Vim.
     - [Vim interface](https://github.com/def-lkb/ocp-indent-vim).
 - Code coverage
-  - [Bisect](http://bisect.x9c.fr/) 
+  - [Bisect](http://bisect.x9c.fr/)
   - [Bisect_ppx](https://github.com/rleonid/bisect_ppx) a more recent fork of the previous tool.
 
 
@@ -391,8 +391,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Kaputt](http://kaputt.x9c.fr) —  comprehensive testing framework.
 - [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
 - [TestSimple](https://github.com/hcarty/ocaml-testsimple) - A lightweight unit testing framework compatible with the [Test Anything Protocol](https://testanything.org/).
-  
- 
+
+
 
 ## Web Development
 
@@ -427,6 +427,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [dispatch](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
   - [Lambda Soup](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
   - [Markup.ml](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
+  - [gen_js_api](https://github.com/LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
 
 - **Open Source Projects**:
   - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
