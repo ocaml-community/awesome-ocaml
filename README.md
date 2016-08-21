@@ -296,6 +296,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 - [onanomsg](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
 - [fluent-logger](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
+- [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
 
 
 ## Online Courses
