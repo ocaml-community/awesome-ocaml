@@ -255,6 +255,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [dolog](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 - [Volt](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
+- [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
 
 ## Metaprogramming
