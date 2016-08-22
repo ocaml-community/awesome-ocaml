@@ -78,6 +78,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [easy-format](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 - [ocaml-rpc](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
 - [ocaml-containers](https://github.com/c-cube/ocaml-containers) – A small standard library extension, string library, and (in "misc") a bunch of random things of lower quality. BSD license.
+- [Notty](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
 
 ## Blogs
 
