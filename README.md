@@ -78,6 +78,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [easy-format](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 - [ocaml-rpc](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
 - [ocaml-containers](https://github.com/c-cube/ocaml-containers) – A small standard library extension, string library, and (in "misc") a bunch of random things of lower quality. BSD license.
+- [Notty](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
 
 ## Blogs
 
@@ -103,7 +104,9 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [infer](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C
 - [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
-
+- [Ocamllint](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
+- [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
+- [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
 
 ## Compilers and Compiler Tools
 
@@ -120,11 +123,13 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Rhine](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
   - [Rust Programming Language](http://rust-lang.org) - Originally written in OCaml before bootstrapping.
   - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+  - [tis-interpreter](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
   - [Others](http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=88) - Some other compilers implemented in OCaml, quite a few dead now.
 - **Parser and Lexer Generators**:
   - [Opal](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir) – Menhir is a LR(1) parser generator for OCaml.
   - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex and yacc implementation for OCaml.
+  - [Angstrom](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 - **Articles**:
   - [Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)
   - [Getting started with OCaml bindings for LLVM](http://nopaniers.calepin.co/getting-started-with-ocaml-bindings-for-llvm.html)
@@ -251,6 +256,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [dolog](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 - [Volt](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
+- [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
 
 ## Metaprogramming
@@ -291,6 +297,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 - [onanomsg](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
 - [fluent-logger](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
+- [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
 
 
 ## Online Courses
@@ -355,6 +362,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Re](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
 - [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 - [Humane-re](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
+- [Tyre](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
 
 ## Security
 
