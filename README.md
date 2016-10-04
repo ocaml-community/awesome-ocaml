@@ -29,7 +29,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Datetime](#datetime)
 - [Developer Tools](#developer-tools)
 - [Exercises](#exercises)
-- [Formal Software Verification](#formal-software-verification)
 - [General](#general)
 - [Graphics](#graphics)
 - [Language-related](#language-related)
@@ -43,6 +42,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Questions](#questions)
 - [Regular Expressions](#regular-expressions)
 - [Science and Technical Computing](#science-and-technical-computing)
+- [Software Verification and Program Analysis](#software-verification-and-program-analysis)
 - [Security](#security)
 - [Semantic Technology](#semantic-technology)
 - [Serialization](#serialization)
@@ -103,11 +103,10 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
 - [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
-- [infer](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C
-- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
 - [Ocamllint](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
 - [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
+
 
 ## Compilers and Compiler Tools
 
@@ -202,14 +201,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [99 problems](http://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here](https://github.com/MassD/99).
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
 - [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions](https://github.com/exercism/xocaml).
-
-
-## Formal Software Verification
-
-- [Coq](http://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
-- [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
-- [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
-
 
 ## General
 
@@ -355,8 +346,14 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [OCaml polymorphism example other than template function?](http://stackoverflow.com/questions/14440531/ocaml-polymorphism-example-other-than-template-function)
 - [OCaml - polymorphic print and type losing](http://stackoverflow.com/questions/7442449/ocaml-polymorphic-print-and-type-losing)
 
+## Regular Expressions
 
-# Science and Technical Computing
+- [Re](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
+- [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
+- [Humane-re](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
+- [Tyre](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
+
+## Science and Technical Computing
 
 - [biocaml](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 - [guizmin](https://github.com/pveber/guizmin) – OCaml library for building bioinformatics pipelines.
@@ -365,12 +362,18 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [oml](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
 - [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
 
-## Regular Expressions
+## Software Verification and Program Analysis
 
-- [Re](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
-- [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
-- [Humane-re](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
-- [Tyre](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
+- [Coq](http://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
+- [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
+- [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
+- [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+- [infer](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C.
+- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript.
+- [Frama-C](https://frama-c.com/) - Framework for Modular Analysis of C programs.
+- [CIL](https://github.com/cil-project/cil) - front-end for the C programming language that facilitates program analysis and transformation.
+- [BAP](https://github.com/BinaryAnalysisPlatform/bap)- a framework for writing program analysis tools, that target binary files.
+
 
 ## Security
 
