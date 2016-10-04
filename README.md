@@ -26,6 +26,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Compilers and Compiler Tools](#compilers-and-compiler-tools)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
+- [Datetime](#datetime)
 - [Developer Tools](#developer-tools)
 - [Exercises](#exercises)
 - [Formal Software Verification](#formal-software-verification)
@@ -163,6 +164,12 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Articles**:
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](http://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
 
+## Datetime
+
+- [ISO8601](https://github.com/sagotch/ISO8601.ml/)
+- [calendar](http://calendar.forge.ocamlcore.org/)
+- [odate](https://github.com/hhugo/odate)
+- [ptime](http://erratique.ch/software/ptime)
 
 ## Developer Tools
 
