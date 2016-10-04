@@ -56,6 +56,7 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
   - [TLA+](https://tla.msr-inria.inria.fr/tlaps/content/Download/Source.html): modeling and verification of concurrent and distributed systems
   - [Astrée](http://www.astree.ens.fr/): abstract-analysis based program analyzer
   - [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
+  - [Zenon](http://zenon-prover.org/): tableau-based prover used in `TLA+` and other projects.
 
 - **Educational resources**: ...
 
@@ -123,10 +124,20 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 # Programming ecosystem
 <br/>
 
+## Extensions or Replacements to stdlib
+
+- **Notable libraries**:
+  * [batteries-included](http://batteries.forge.ocamlcore.org/): a community-driven stdlib replacement
+    with many data structures
+  * [Core](https://github.com/janestreet/core_kernel): JaneStreet's replacement for the stdlib
+  * [containers](https://github.com/c-cube/ocaml-containers): modular collection of data structures
+
 ## Algorithms and Data Structures
 
 - **Rating**: Mature
-- **Notable libraries**: ...
+- **Notable libraries**:
+  * [htmt](https://github.com/rgrinberg/ocaml-hamt): Hash Array Mapped Tries
+  * [ocamlgraph](http://ocamlgraph.lri.fr/): powerful graph library
 - **Educational resources**: ...
 
 ## Code Analysis and Linters
@@ -194,7 +205,8 @@ D-Bus (system libraries)
 ## Package Management
 
 - **Rating**: Mature
-- **Notable libraries**: ...
+- **Notable libraries**:
+  * [opam](http://opam.ocaml.org/): very active package manager for OCaml
 - **Educational resources**: ...
 
 ## Communication protocols
@@ -207,7 +219,9 @@ D-Bus (system libraries)
 ## Data Formats
 
 - **Rating**: ...
-- **Notable libraries**: ...
+- **Notable libraries**:
+  * [sexplib](https://github.com/janestreet/sexplib): S-expressions
+  * [yojson](http://mjambon.com/yojson.html): JSON
 - **Educational resources**: ...
 
 ## Serialization
@@ -219,7 +233,8 @@ D-Bus (system libraries)
 ## Testing
 
 - **Rating**: Mature
-- **Notable libraries**: ...
+- **Notable libraries**:
+  * [OUnit](http://ounit.forge.ocamlcore.org/): unit testing
 - **Educational resources**: ...
 
 
