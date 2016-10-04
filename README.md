@@ -169,6 +169,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ISO8601](https://github.com/sagotch/ISO8601.ml/)
 - [calendar](http://calendar.forge.ocamlcore.org/)
 - [odate](https://github.com/hhugo/odate)
+- [ptime](http://erratique.ch/software/ptime)
 
 ## Developer Tools
 
