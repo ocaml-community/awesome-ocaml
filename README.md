@@ -67,6 +67,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [OCamlgraph](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
 - [ods](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
 - [combine](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
+- [Decompress](https://github.com/oklm-wsh/Decompress.git) - A pure OCaml implementation of Zlib
 
 
 ## Application Libraries
