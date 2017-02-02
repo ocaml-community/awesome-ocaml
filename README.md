@@ -219,7 +219,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Python to OCaml: retrospective](http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective/)
 - [OCaml for the Masses](http://queue.acm.org/detail.cfm?id=2038036)
 - [Why We Use OCaml](http://tech.esper.com/2014/07/15/why-we-use-ocaml/)
-- [Why OCaml?](http://www.mimisbrunnr.net/~munin/blog/why-ocaml.html)
+- [Why OCaml?](http://web.archive.org/web/20140713005224/http://www.mimisbrunnr.net/~munin/blog/why-ocaml.html)
 - [Xen – OCaml Coding Considerations](http://wiki.xen.org/wiki/OCaml_Coding_Considerations)
 - [Monads are a class of hard drugs](http://lambda-diode.com/programming/monads-are-a-class-of-hard-drugs)
 - [Beginner's guide to OCaml](http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html)
@@ -278,7 +278,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Syntax Extensions**:
   - [ppx_import](https://github.com/whitequark/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
   - [ppx_string_interpolate](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
-  - [ppx_monad](https://github.com/m2ym/ppx_monad) – Monad syntax extension for OCaml.
+  - [ppx_monad](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
   - [ppx_deriving_yojson](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 - **Tools and Language Extensions**:
   - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
@@ -322,8 +322,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Distribution**:
   - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
-  -	[WODI for Windows](http://wodi.forge.ocamlcore.org/) - A package manager for Windows.
-  -	[makorel](https://github.com/sagotch/makorel) – Release OPAM packages easily.
+  - [WODI for Windows](http://wodi.forge.ocamlcore.org/) - A package manager for Windows.
+  - [makorel](https://github.com/sagotch/makorel) – Release OPAM packages easily.
 
 - **Build Tools**:
   - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
@@ -390,7 +390,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [biniou](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
-- [yojson](http://mjambon.com/yojson.html) — An optimized parsing and printing library for the JSON format.
+- [yojson](https://github.com/mjambon/yojson) — An optimized parsing and printing library for the JSON format.
 - [sexplib](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 
@@ -405,7 +405,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Testing
 
 - [Alcotest](https://github.com/samoht/alcotest) – A lightweight and colourful test framework.
-- [OUnit](https://github.com/warrenharris/ounit) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
+- [OUnit](http://ounit.forge.ocamlcore.org/) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
 - [QCheck](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 - [iTeML](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
 - [Kaputt](http://kaputt.x9c.fr) —  comprehensive testing framework.
