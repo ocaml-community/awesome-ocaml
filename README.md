@@ -82,11 +82,13 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ocaml-containers](https://github.com/c-cube/ocaml-containers) – A small standard library extension, string library, and (in "misc") a bunch of random things of lower quality. BSD license.
 - [Notty](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
 
+
 ## Blogs
 
 - [Gagallium](http://gallium.inria.fr/blog/)
 - [Type OCaml – Many things about OCaml](http://typeocaml.com)
 - [OCaml Platform](https://opam.ocaml.org/blog/)
+
 
 ## Books
 
@@ -100,6 +102,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Purely Functional Data Structures](http://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
 - [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrod.
 
+
 ## Code Analysis and Linters
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
@@ -109,6 +112,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Ocamllint](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
 - [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
+
 
 ## Compilers and Compiler Tools
 
@@ -166,12 +170,14 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Articles**:
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](http://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
 
+
 ## Datetime
 
 - [ISO8601](https://github.com/sagotch/ISO8601.ml/)
 - [calendar](http://calendar.forge.ocamlcore.org/)
 - [odate](https://github.com/hhugo/odate)
 - [ptime](http://erratique.ch/software/ptime)
+
 
 ## Developer Tools
 
@@ -233,6 +239,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [slacko](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
 - [Learn X in Y minutes](https://learnxinyminutes.com/docs/ocaml/) - Where X=OCaml.
 
+
 ## Graphics
 
 - **2D**
@@ -260,7 +267,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [OCaml Style Guide](https://github.com/pyrocat101/ocaml-style-guide) - See also: [[1]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html), [[2]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [[3]](https://www.seas.upenn.edu/~cis120/current/programming_style.shtml).
 - [A safe but strange way of modifying OCaml compiler](https://bitbucket.org/camlspotter/compiler-libs-hack)
 - [Fiddling with the OCaml Type System](http://technotroph.wordpress.com/2013/10/25/fiddling-with-the-ocaml-type-system/)
-
 
 
 ## Logging
@@ -296,6 +302,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [OCaml + Cordova = more secured, typed and hybrid mobile applications](https://blog.danny-willems.be/en/ocaml-cordova-secured-typed-hybrid-mobile-applications/)
 - **Bindings**:
   - [Cordova plugins](https://github.com/dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
+
 
 ## Networking
 
@@ -369,6 +376,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [oml](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
 - [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
 - [slap](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
+- [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
+
 
 ## Regular Expressions
 
@@ -376,6 +385,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 - [Humane-re](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
 - [Tyre](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
+
 
 ## Security
 
@@ -414,7 +424,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Kaputt](http://kaputt.x9c.fr) —  comprehensive testing framework.
 - [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
 - [TestSimple](https://github.com/hcarty/ocaml-testsimple) - A lightweight unit testing framework compatible with the [Test Anything Protocol](https://testanything.org/).
-
 
 
 ## Web Development
