@@ -377,6 +377,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
 - [slap](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
 - [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
+- [owl](https://github.com/ryanrhymes/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions.
 
 
 ## Regular Expressions
