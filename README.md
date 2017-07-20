@@ -34,6 +34,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Graphics](#graphics)
 - [Language-related](#language-related)
 - [Logging](#logging)
+- [Messaging](#messaging)
 - [Metaprogramming](#metaprogramming)
 - [Mobile Applications](#mobile-applications)
 - [Networking](#networking)
@@ -276,6 +277,19 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
 
+## Messaging
+
+- **ZeroMQ**:
+  - [ocaml-zmq](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml.
+  - [async-zmq](https://github.com/rgrinberg/async-zmq) – Async wrapper around ocaml-zmq.
+  - [lwt-zmq](https://github.com/hcarty/lwt-zmq) – Lwt-friendly interface to ZeroMQ for OCaml.
+- [onanomsg](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
+- [Kafka](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
+- [AMQP](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
+- [MPI](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
+- [MQTT](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
+
+
 ## Metaprogramming
 
 - **Articles**:
@@ -309,12 +323,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **HTTP Tools**:
   - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
   - [ocurl](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
-- **ZeroMQ Bindings**:
-  - [ocaml-zmq](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml.
-  - [async-zmq](https://github.com/rgrinberg/async-zmq) – Async wrapper around ocaml-zmq.
-  - [lwt-zmq](https://github.com/hcarty/lwt-zmq) – Lwt-friendly interface to ZeroMQ for OCaml.
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
-- [onanomsg](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
 - [fluent-logger](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 - [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
 
