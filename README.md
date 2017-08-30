@@ -403,7 +403,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Security
 
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
-
+- [cryptokit](https://github.com/xavierleroy/cryptokit) – Everything you need for high performance cryptography in OCaml (block and stream ciphers, public key crypto, hashes, MACs, compression and random numbers).
 
 ## Semantic Technology
 
