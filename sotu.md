@@ -93,11 +93,13 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
      and manipulating HTML, CSS, and XML with OCaml.
    - [Ocsigen](ocsigen.org): High-level framework for developing client-server applications
      in OCaml
+   - [Bucklescript](https://github.com/BuckleScript/bucklescript): JS compiler
    - [JS of OCaml (JSOO)](https://github.com/ocsigen/js_of_ocaml): Compiler from OCaml bytecode
      to JavaScript, intended to be used for large, high-performance projects.
    - [OCamlScript](https://github.com/bloomberg/ocamlscript): Compiler from OCaml source
      code to JavaScript source code, intended to be used to produce small, literate pieces
      of JavaScript
+   - [Reason](https://github.com/facebook/reason): JavaScript-ish syntax for OCaml.
 - **Educational resources**: ...
 
 ## Mobile Applications
