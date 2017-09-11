@@ -403,7 +403,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Security
 
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
-- [nocrypto](https://github.com/mirleft/ocaml-nocrypto) – Cryptographic primitives.
+- [nocrypto](https://github.com/mirleft/ocaml-nocrypto) – a small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
 
 
 ## Semantic Technology
