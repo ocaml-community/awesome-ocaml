@@ -403,6 +403,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Security
 
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+- [nocrypto](https://github.com/mirleft/ocaml-nocrypto) – Cryptographic primitives.
 
 
 ## Semantic Technology
