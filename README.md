@@ -147,9 +147,15 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 ## Concurrency
 
-- [Async](http://janestreet.github.io/) — A monadic concurrence library to go with the Core library.
-- [Cooperative Concurrency in OCaml: A Core.Std.Async Example](http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/).
-- [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
+Two competing concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very similar functionality but make radically different decisions with regards to error handling and internal implementation details (see the links below for more details). [Real World OCaml](https://realworldocaml.org/) uses Async but a version of the [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) is also available.
+
+- **Libraries**:
+  - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
+  - [Async](http://janestreet.github.io/) — A monadic concurrence library to go with the Core library.
+- **Articles**:
+  - [Announcing Async](https://blog.janestreet.com/announcing-async/)
+  - [Abandoning Async](http://rgrinberg.com/posts/abandoning-async/)
+  - [Cooperative Concurrency in OCaml: A Core.Std.Async Example](http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/).
 
 
 ## Databases
