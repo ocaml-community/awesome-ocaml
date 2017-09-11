@@ -324,6 +324,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **HTTP Tools**:
   - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
   - [ocurl](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
+  - [httpaf](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 - [fluent-logger](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 - [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
