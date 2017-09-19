@@ -32,6 +32,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Formal Software Verification](#formal-software-verification)
 - [General](#general)
 - [Graphics](#graphics)
+- [User Interface](#user-interface)
 - [Language-related](#language-related)
 - [Logging](#logging)
 - [Messaging](#messaging)
