@@ -34,6 +34,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Graphics](#graphics)
 - [Language-related](#language-related)
 - [Logging](#logging)
+- [Messaging](#messaging)
 - [Metaprogramming](#metaprogramming)
 - [Mobile Applications](#mobile-applications)
 - [Networking](#networking)
@@ -77,6 +78,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Core](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core_kernel](https://github.com/janestreet/core_kernel).
 - [Base](https://github.com/janestreet/base) - Jane Street Capital's dependency-free, quick-compiling, fully-portable across any environment that can run OCaml code standard library.
 - [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
+- [Minicli](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
 - [ctypes](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
 - [easy-format](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 - [ocaml-rpc](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
@@ -113,6 +115,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Ocamllint](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
 - [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
+- [MemCAD](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures.
+- [BAP](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs. 
 
 
 ## Compilers and Compiler Tools
@@ -253,8 +257,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
 - **GUI**
   - [lablgtk](http://lablgtk.forge.ocamlcore.org/) — GTK2 bindings for OCaml with various higher-level facilities to define GUIs.
-  - [lablqt](https://github.com/Kakadu/lablqt) – Qt5 bindings for OCaml.
-  - [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
+  - [lablqml](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
+  - [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01. 
   - [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
 
 
@@ -275,6 +279,19 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [dolog](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
 - [Volt](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
+
+
+## Messaging
+
+- **ZeroMQ**:
+  - [ocaml-zmq](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml.
+  - [async-zmq](https://github.com/rgrinberg/async-zmq) – Async wrapper around ocaml-zmq.
+  - [lwt-zmq](https://github.com/hcarty/lwt-zmq) – Lwt-friendly interface to ZeroMQ for OCaml.
+- [onanomsg](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
+- [Kafka](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
+- [AMQP](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
+- [MPI](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
+- [MQTT](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
 
 
 ## Metaprogramming
@@ -310,12 +327,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **HTTP Tools**:
   - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
   - [ocurl](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
-- **ZeroMQ Bindings**:
-  - [ocaml-zmq](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml.
-  - [async-zmq](https://github.com/rgrinberg/async-zmq) – Async wrapper around ocaml-zmq.
-  - [lwt-zmq](https://github.com/hcarty/lwt-zmq) – Lwt-friendly interface to ZeroMQ for OCaml.
+  - [httpaf](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
-- [onanomsg](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
 - [fluent-logger](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 - [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
 
@@ -339,6 +352,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
     - [oasis2opam](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
   - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
+  - [jbuilder](https://github.com/janestreet/jbuilder) – A composable and opinionated build system for OCaml
   - [jenga](https://github.com/janestreet/jenga) – Monadic build system from Jane Street.
   - [ocamlbuild](http://ocaml.org/learn/tutorials/ocamlbuild/) — Build system provided with the compiler.
   - [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
@@ -357,6 +371,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Rpc.Parallel](https://github.com/janestreet/rpc_parallel) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
   - [Nproc](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
+  - [Parany](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
 
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](http://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
@@ -392,6 +407,10 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Security
 
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+- [cryptokit](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications. 
+- [nocrypto](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
+
+> Note: The differences between `nocrypto` and `cryptokit` cryptographic libraries are described in the following blog post: [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
 
 
 ## Semantic Technology
