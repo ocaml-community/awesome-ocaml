@@ -147,7 +147,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 ## Concurrency
 
-Two competing concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very similar functionality but make radically different decisions with regards to error handling and internal implementation details (see the links below for more details). [Real World OCaml](https://realworldocaml.org/) uses Async but a version of the [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) is also available.
+Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very similar functionality but make radically different decisions with regards to error handling and internal implementation details (see the links below for more details). [Real World OCaml](https://realworldocaml.org/) uses Async but a version of the [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) is also available.
 
 - **Libraries**:
   - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
