@@ -74,8 +74,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Batteries Included](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
-- [Core](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay.
-- [Core_kernel](https://github.com/janestreet/core_kernel) - Core-flavored wrapper of Unix-specific functionality. It is aimed for cases when the full Core is not available, such as in Javascript.
+- [Core](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core_kernel](https://github.com/janestreet/core_kernel).
 - [Base](https://github.com/janestreet/base) - Jane Street Capital's dependency-free, quick-compiling, fully-portable across any environment that can run OCaml code standard library.
 - [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
 - [ctypes](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
