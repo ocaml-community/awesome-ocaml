@@ -91,7 +91,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Gagallium](http://gallium.inria.fr/blog/)
 - [Type OCaml – Many things about OCaml](http://typeocaml.com)
 - [OCaml Platform](https://opam.ocaml.org/blog/)
-
+- [Drup's Thingies](https://drup.github.io/)
 
 ## Books
 
