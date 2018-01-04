@@ -220,7 +220,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
     - [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
   - [ocp-indent](http://www.typerex.org/ocp-indent.html) — Indentation tool for OCaml, to be used from editors like Emacs and Vim.
     - [Vim interface](https://github.com/def-lkb/ocp-indent-vim).
-- Code coverage
+- **Code coverage**:
   - [Bisect](http://bisect.x9c.fr/)
   - [Bisect_ppx](https://github.com/rleonid/bisect_ppx) a more recent fork of the previous tool.
 
