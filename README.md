@@ -71,7 +71,6 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [ods](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
 - [combine](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
 - [Decompress](https://github.com/oklm-wsh/Decompress) - A pure OCaml implementation of Zlib
-- [Digestif](https://github.com/mirage/digestif) - Hash algorithms in OCaml and C
 
 ## Application Libraries
 
@@ -430,6 +429,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
 - [cryptokit](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 - [nocrypto](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
+- [Digestif](https://github.com/mirage/digestif) - Hash algorithms (like SHA* or BLAKE2*) in OCaml and C
 
 > Note: The differences between `nocrypto` and `cryptokit` cryptographic libraries are described in the following blog post: [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
 
