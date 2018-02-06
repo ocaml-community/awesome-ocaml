@@ -237,6 +237,7 @@ D-Bus (system libraries)
 - **Rating**: Mature
 - **Notable libraries**:
   * [OUnit](http://ounit.forge.ocamlcore.org/): unit testing
+  * [Alcotest](https://github.com/mirage/alcotest): unit testing
 - **Educational resources**: ...
 
 
