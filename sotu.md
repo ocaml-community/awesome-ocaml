@@ -91,7 +91,7 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 - **Notable libraries**:
    - [COW](github.com/mirage/ocaml-cow): Set of tools and syntax extensions for generating
      and manipulating HTML, CSS, and XML with OCaml.
-   - [Ocsigen](ocsigen.org): High-level framework for developing client-server applications
+   - [Ocsigen](http://ocsigen.org/): High-level framework for developing client-server applications
      in OCaml
    - [Bucklescript](https://github.com/BuckleScript/bucklescript): JS compiler
    - [JS of OCaml (JSOO)](https://github.com/ocsigen/js_of_ocaml): Compiler from OCaml bytecode
