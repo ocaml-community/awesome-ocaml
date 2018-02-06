@@ -45,7 +45,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Questions](#questions)
 - [Regular Expressions](#regular-expressions)
 - [Science and Technical Computing](#science-and-technical-computing)
-- [Security](#security)
+- [Security and Cryptography](#security-and-cryptography)
 - [Semantic Technology](#semantic-technology)
 - [Serialization](#serialization)
 - [System Programming](#system-programming)
