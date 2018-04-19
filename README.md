@@ -59,6 +59,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Official OCaml Website](http://ocaml.org/)
 - [OCaml Discourse Web Forum](https://discuss.ocaml.org/)
+- [OCaml Discord Chat](https://discord.gg/ZBgYuvR)
 - [Official OCaml Mailing List](http://caml.inria.fr/resources/forums.en.html)
 - [OCaml Planet](http://ocaml.org/community/planet/)
 - [OCaml SubReddit](http://reddit.com/r/ocaml)
