@@ -7,9 +7,11 @@ Awesome OCaml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2
 
 A curated list of references to awesome OCaml tools, frameworks, libraries and articles. Additionally there is a collection of freely available [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) and [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
 
-Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
+If you're looking for comprehensive community-driven content about OCaml visit 📚[OCamlverse](https://ocamlverse.github.io/)!
 
 For a quick intorduction to the modern OCaml development workflow consult the [**OCaml for the impatient**](https://adambard.com/blog/getting-started-with-ocaml/) guide.
+
+Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
 
 ## Contents
 
