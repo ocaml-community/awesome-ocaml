@@ -9,7 +9,7 @@ A curated list of references to awesome OCaml tools, frameworks, libraries and a
 
 Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
 
-If you are beginner and want to learn the basics of OCaml programming here is the [**Beginner's guide to OCaml beginner's guides**](http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html).
+For a quick intorduction to the modern OCaml development workflow consult the [**OCaml for the impatient**](https://adambard.com/blog/getting-started-with-ocaml/) guide.
 
 ## Contents
 
