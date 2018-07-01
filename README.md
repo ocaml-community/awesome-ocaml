@@ -182,8 +182,10 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 - **Overlays**
   - [Macaque](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
   - [ORM](https://github.com/mirage/orm/) — ORM for SQLite.
+  - [Caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
 - **Articles**:
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](http://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
+  - [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)
 
 
 ## Datetime
