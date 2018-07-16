@@ -209,6 +209,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 - **Editor Integration**:
   - [merlin](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
   - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
+  - [merlin-eldoc](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
   - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml/) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode)
   - [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
     - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin)
