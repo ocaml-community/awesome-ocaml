@@ -50,6 +50,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Serialization](#serialization)
 - [System Programming](#system-programming)
 - [Testing](#testing)
+- [Utilities](#utilities)
 - [Web Development](#web-development)
 
 * * *
