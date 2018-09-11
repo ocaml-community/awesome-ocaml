@@ -48,6 +48,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Serialization](#serialization)
 - [System Programming](#system-programming)
 - [Testing](#testing)
+- [Utilities](#utilities)
 - [Web Development](#web-development)
 
 * * *
@@ -471,6 +472,11 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Kaputt](http://kaputt.x9c.fr/) —  comprehensive testing framework.
 - [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
 - [TestSimple](https://github.com/hcarty/ocaml-testsimple) - A lightweight unit testing framework compatible with the [Test Anything Protocol](https://testanything.org/).
+
+
+## Utilities
+
+- [ocaml-cuid](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
 
 
 ## Web Development
