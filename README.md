@@ -35,6 +35,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Logging](#logging)
 - [Messaging](#messaging)
 - [Metaprogramming](#metaprogramming)
+- [Metrics](#metrics)
 - [Mobile Applications](#mobile-applications)
 - [Networking](#networking)
 - [Online Courses](#online-courses)
@@ -335,6 +336,9 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
 
+## Metrics
+
+- [prometheus](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
 
 ## Mobile Applications
 
