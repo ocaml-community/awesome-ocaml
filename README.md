@@ -140,12 +140,14 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
   - [Haxe Programming Language](https://haxe.org/)
   - [Neko Programming Language](https://nekovm.org/) - Originally the compiler was written in OCaml.
   - [Mezzo Programming Language](https://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
+  - [MirageOS](https://mirage.io/) - A framework to construct unikernels
   - [OCaml-Java](http://www.ocamljava.org/) - OCaml to Java bytecode compiler.
   - [Opa Programming Language](http://opalang.org/)
   - [Rhine](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
   - [Rust Programming Language](https://www.rust-lang.org/) - Originally written in OCaml before bootstrapping.
   - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
   - [tis-interpreter](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
+  - [OMicroB](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers 
   - [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
   - [RaML](http://raml.co/index.html) - Resource Aware ML (RaML) is a tool that automatically and statically computes resource-use bounds for OCaml programs.
 
