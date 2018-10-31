@@ -111,7 +111,9 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
 - [Using, Understanding, and Unraveling OCaml](https://caml.inria.fr/pub/docs/u3-ocaml) – This book describes both the OCaml language and the theoretical grounds behind its powerful type system.
 - [Purely Functional Data Structures](https://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
-- [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrod.
+- [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrop.
+- [Functional Programming in OCaml: A Principled Approach](http://www.cs.cornell.edu/courses/cs3110/2018fa/textbook/) - Textbook for CS 3110 Data Structures and Functional Programming, Cornell University.
+
 
 
 ## Code Analysis and Linters
