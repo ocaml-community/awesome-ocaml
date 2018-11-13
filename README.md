@@ -304,7 +304,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 - [mikmatch](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
-- [Inlined records in constructors](http://www.lexifi.com/blog/inlined-records-constructors)
+- [Inlined records in constructors](http://www.lexifi.com/blog/ocaml/inlined-records-constructors)
 - [Algebraic Data Types](https://espertech.wordpress.com/2014/07/30/algebraic-data-types/)
 - [XEN – OCaml Best Practices for Developers](http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers)
 - [OCaml Style Guide (by Jane Street)](https://opensource.janestreet.com/standards/) - See also: [[1]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html), [[2]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [[3]](https://www.seas.upenn.edu/~cis120/current/programming_style.shtml).
@@ -334,7 +334,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - **Articles**:
   - [A Guide to Extension Points in OCaml](http://whitequark.org/blog/2014/04/16/a-guide-to-extension-points-in-ocaml/)
   - [Extension Points, or how OCaml is becoming more like Lisp](https://blogs.janestreet.com/extension-points-or-how-ocaml-is-becoming-more-like-lisp)
-  - [Syntax extensions without Camlp4: let's do it!](http://www.lexifi.com/blog/syntax-extensions-without-camlp4-lets-do-it/)
+  - [Syntax extensions without Camlp4: let's do it!](http://www.lexifi.com/blog/ocaml/syntax-extensions-without-camlp4-lets-do-it/)
   - [Reading Camlp4 – Ambassador to the Computers](https://ambassadortothecomputers.blogspot.com/p/reading-camlp4.html)
 - **Syntax Extensions**:
   - [ppx_import](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
