@@ -234,6 +234,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
   - [merlin-eldoc](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
   - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode)
+  - [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode](https://github.com/microsoft/vscode)
   - [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
     - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin)
   - [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
