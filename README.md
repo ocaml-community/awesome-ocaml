@@ -73,6 +73,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [ods](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
 - [combine](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
 - [Decompress](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib
+- [Ke](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml
 
 ## Application Libraries
 
