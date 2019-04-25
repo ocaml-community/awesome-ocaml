@@ -401,7 +401,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [topkg](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
   - [Namespaces](https://github.com/aantron/namespaces) - ocamlbuild plugin that converts your directory tree into nested modules.
   - [Bazel](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
-
+  - [esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 ## Parallelism
 
