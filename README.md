@@ -31,6 +31,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Formal Software Verification](#formal-software-verification)
 - [General](#general)
 - [Graphics](#graphics)
+- [Internationalization](#internationalization)
 - [User Interface](#user-interface)
 - [Language-related](#language-related)
 - [Logging](#logging)
@@ -292,6 +293,11 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [glMLite](http://www.linux-nantes.org/~fmonnier/OCaml/GL/) — OpenGL bindings for OCaml. Provides an (experimental) functional API.
   - [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
   - [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
+
+
+## Internationalization
+
+- [Camomile](https://github.com/yoriyuki/Camomile/) - A Unicode library for OCaml.
 
 
 ## User Interface
