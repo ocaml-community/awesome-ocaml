@@ -390,7 +390,8 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows.
   - [makorel](https://github.com/sagotch/makorel) – Release OPAM packages easily.
-
+  - [esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
+  
 - **Build Tools**:
   - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
     - [oasis2opam](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
@@ -402,7 +403,6 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [topkg](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
   - [Namespaces](https://github.com/aantron/namespaces) - ocamlbuild plugin that converts your directory tree into nested modules.
   - [Bazel](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
-
 
 ## Parallelism
 
