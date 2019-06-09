@@ -462,7 +462,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Semantic Technology
 
-- [OCaml-RDF](https://www.good-eris.net/ocaml-rdf/) – OCaml library to manipulate RDF graphs and execute Sparql queries.
+- [OCaml-RDF](https://framagit.org/zoggy/ocaml-rdf) – OCaml library to manipulate RDF graphs and execute Sparql queries.
 
 
 ## Serialization
