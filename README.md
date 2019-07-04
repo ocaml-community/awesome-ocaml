@@ -132,6 +132,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 ## Program analysis
 - [BAP](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs.
 - [BinCat](https://github.com/airbus-seclab/bincat) - BinCat is a binary code static analysis toolkit.
+- [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 
 ## Compilers and Compiler Tools
 
