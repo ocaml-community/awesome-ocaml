@@ -172,7 +172,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 
 - **Libraries**:
   - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
-  - [Async](http://janestreet.github.io/) — A monadic concurrence library to go with the Core library.
+  - [Async](https://opensource.janestreet.com/async/) — A monadic concurrence library to go with the Core library.
 - **Articles**:
   - [The blog post that introduced Async](https://blog.janestreet.com/announcing-async/)
   - [A user gives up on Async](http://rgrinberg.com/posts/abandoning-async/)
