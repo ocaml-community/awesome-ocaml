@@ -246,8 +246,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
     - [Vim plugin](https://github.com/def-lkb/ocp-indent-vim).
 - **Code coverage**:
-  - [Bisect](http://bisect.x9c.fr/)
-  - [Bisect_ppx](https://github.com/rleonid/bisect_ppx) a more recent fork of the previous tool.
+  - [Bisect_ppx](https://github.com/aantron/bisect_ppx)
 
 
 ## Exercises
@@ -390,7 +389,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows.
   - [makorel](https://github.com/sagotch/makorel) – Release OPAM packages easily.
   - [esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
-  
+
 - **Build Tools**:
   - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
     - [oasis2opam](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
