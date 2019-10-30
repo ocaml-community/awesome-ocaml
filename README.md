@@ -123,7 +123,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 ## Code Analysis and Linters
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
-- [pfff](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+- [pfff](https://github.com/aryx/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [Infer](https://github.com/facebook/infer) - Infer is a static analyzer for Java, C and Objective-C
 - [Frama-C](http://frama-c.com) - Frama-C is a static analysis and formal proof framework for C and C++
 - [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
