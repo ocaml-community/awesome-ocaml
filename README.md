@@ -35,6 +35,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [User Interface](#user-interface)
 - [Language-related](#language-related)
 - [Logging](#logging)
+- [Machine Learning](#machine-learning)
 - [Messaging](#messaging)
 - [Metaprogramming](#metaprogramming)
 - [Metrics](#metrics)
@@ -333,6 +334,15 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Volt](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
+## Machine Learning
+
+- **Libraries**
+	- [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algoritmic differentiation and ONNX support.
+	- [Object detection convolutional neural network with OCaml (based on Owl)](https://github.com/owlbarn/owl_mask_rcnn).
+- **Articles**
+	- [Deep Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/deep-learning-experiments-in-ocaml/).
+	- [Transfer Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/of-pythons-and-camels/).
+	- [Reinforcement Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/playing-atari-games-with-ocaml-and-deep-rl/).
 
 ## Messaging
 
