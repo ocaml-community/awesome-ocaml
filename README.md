@@ -339,6 +339,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - **Libraries**
 	- [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algoritmic differentiation and ONNX support.
 	- [Object detection convolutional neural network with OCaml (based on Owl)](https://github.com/owlbarn/owl_mask_rcnn).
+	- [PyTorch bindings](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
 - **Articles**
 	- [Deep Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/deep-learning-experiments-in-ocaml/).
 	- [Transfer Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/of-pythons-and-camels/).
