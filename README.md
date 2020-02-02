@@ -77,6 +77,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Decompress](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
 - [Ke](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 - [Duff](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
+- [ORaft](https://github.com/komamitsu/oraft) - Library of [Raft consensus algorithm](https://raft.github.io/raft.pdf) implemented in OCaml
 
 
 ## Application Libraries
