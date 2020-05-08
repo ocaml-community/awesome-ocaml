@@ -338,8 +338,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Machine Learning
 
 - **Libraries**
-
-	- [ocaml-sklearn](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
+	- [Ocaml-sklearn](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
 	- [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algoritmic differentiation and ONNX support.
 	- [Object detection convolutional neural network with OCaml (based on Owl)](https://github.com/owlbarn/owl_mask_rcnn).
 	- [PyTorch bindings](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
