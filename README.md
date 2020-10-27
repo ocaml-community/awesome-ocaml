@@ -34,6 +34,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Internationalization](#internationalization)
 - [User Interface](#user-interface)
 - [Language-related](#language-related)
+- [Large Source Code Examples](#large-source-code-examples)
 - [Logging](#logging)
 - [Machine Learning](#machine-learning)
 - [Messaging](#messaging)
@@ -44,6 +45,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Online Courses](#online-courses)
 - [Package Management](#package-management)
 - [Parallelism](#parallelism)
+- [Project Starter Templates](#project-starter-templates)
 - [Questions](#questions)
 - [Regular Expressions](#regular-expressions)
 - [Science and Technical Computing](#science-and-technical-computing)
@@ -332,6 +334,13 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Fiddling with the OCaml Type System](https://technotroph.wordpress.com/2013/10/25/fiddling-with-the-ocaml-type-system/)
 
 
+## Large Source Code Examples
+
+- [Dark](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
+- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
+- [Base](https://github.com/janestreet/base) - Standard library for OCaml
+
+
 ## Logging
 
 - [dolog](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
@@ -447,6 +456,10 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
 
+## Project Starter Templates
+
+- [spin](https://github.com/tmattio/spin) - Reason and Ocaml project generator
+- [modern-ocaml](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 
 ## Questions
 
