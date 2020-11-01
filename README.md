@@ -458,6 +458,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Project Starter Templates
 
+- [drom](https://github.com/OCamlPro/drom/) - The drom tool is a wrapper over opam/dune in an attempt to provide a cargo-like user experience.
 - [spin](https://github.com/tmattio/spin) - Reason and Ocaml project generator
 - [modern-ocaml](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 
