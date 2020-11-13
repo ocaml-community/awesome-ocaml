@@ -336,10 +336,19 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Large Source Code Examples
 
-- [Dark](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
-- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [Base](https://github.com/janestreet/base) - Standard library for OCaml
-
+- [cil](https://github.com/cil-project/cil) - C Intermediate Language
+- [coq](https://github.com/coq/coq) - formal proof management system
+- [Dark](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
+- [frama-c](https://git.frama-c.com/pub/frama-c) - platform dedicated to the analysis of source code written in C
+- [libguestfs](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images
+- [Liquidsoap](https://github.com/savonet/liquidsoap) - a swiss-army knife for multimedia streaming, notably used for netradios and webtvs
+- [mirage](https://github.com/mirage/mirage) -  library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms
+- [MLDonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network peer-to-peer daemon
+- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
+- [pfff](https://github.com/returntocorp/pfff) - an OCaml API to write static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+- [WHY3](https://gitlab.inria.fr/why3/why3) - platform for deductive program verification
+- [xen-api](https://github.com/xapi-project/xen-api) - management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool
 
 ## Logging
 
