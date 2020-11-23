@@ -27,7 +27,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Databases](#databases)
 - [Datetime](#datetime)
 - [Developer Tools](#developer-tools)
-- [Exercises](#exercises)
+- [Exercises and Short Examples](#exercises-and-short-examples)
 - [Formal Software Verification](#formal-software-verification)
 - [General](#general)
 - [Graphics](#graphics)
@@ -257,12 +257,12 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Bisect_ppx](https://github.com/aantron/bisect_ppx)
 
 
-## Exercises
+## Exercises and Short Examples
 
 - [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here](https://github.com/MassD/99).
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
 - [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions](https://github.com/exercism/xocaml).
-
+- [Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/pleac_ocaml/index.html) - The OCaml section of the book is a free reference for solving common programming problems using OCaml.
 
 ## Formal Software Verification
 
