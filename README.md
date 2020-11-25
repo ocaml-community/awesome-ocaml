@@ -329,8 +329,8 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Inlined records in constructors](https://www.lexifi.com/ocaml/inlined-records-constructors/)
 - [Algebraic Data Types](https://espertech.wordpress.com/2014/07/30/algebraic-data-types/)
 - [XEN – OCaml Best Practices for Developers](http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers)
-- [OCaml Style Guide (by Jane Street)](https://opensource.janestreet.com/standards/) - See also: [[1]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html), [[2]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [[3]](https://www.seas.upenn.edu/~cis120/current/programming_style.shtml).
-- [A safe but strange way of modifying OCaml compiler](https://bitbucket.org/camlspotter/compiler-libs-hack)
+- [OCaml Style Guide (by Jane Street)](https://opensource.janestreet.com/standards/) - See also: [[1]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html), [[2]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [[3]](https://www.seas.upenn.edu/~cis120/20fa/ocaml_style/).
+- [A safe but strange way of modifying OCaml compiler](https://camlspotter.blogspot.com/2012/09/a-safe-but-strange-way-of-modifying.html)
 - [Fiddling with the OCaml Type System](https://technotroph.wordpress.com/2013/10/25/fiddling-with-the-ocaml-type-system/)
 
 
