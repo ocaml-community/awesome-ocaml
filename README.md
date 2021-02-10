@@ -489,7 +489,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
 - [onumerical](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
 - [oml](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
-- [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
+- [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special functions library.
 - [slap](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
 - [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 - [owl](https://github.com/owlbarn/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions.
