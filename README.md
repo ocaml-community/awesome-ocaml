@@ -93,6 +93,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [easy-format](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 - [ocaml-rpc](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
 - [ocaml-containers](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
+- [Preface](https://github.com/xvw/preface) - An opinionated library designed to facilitate the handling of recurring functional programming idioms in OCaml.
 
 
 ## Benchmarking
