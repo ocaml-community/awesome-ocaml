@@ -245,6 +245,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
   - [Py.ml](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
 - **Editor Integration**:
+  - [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode](https://github.com/microsoft/vscode), Vim and Emacs.
   - [merlin](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
   - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
   - [merlin-eldoc](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
