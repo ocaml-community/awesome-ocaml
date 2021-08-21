@@ -230,6 +230,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Developer Tools
 
 - [Try OCaml](https://try.ocamlpro.com/) – Try OCaml in your web browser.
+- [BetterOCaml](betterocaml.ml) – An efficient, intuitive and cross-platform web IDE with your OCaml code interpreted and running in your browser!
 - [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – Compile and execute OCaml code online.
 - [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - Learn and execute OCaml code from your iPhone/iPad/Mac.
 - [Jupyter](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
