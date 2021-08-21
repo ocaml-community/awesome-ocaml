@@ -9,7 +9,7 @@ A curated list of references to awesome OCaml tools, frameworks, libraries and a
 
 If you're looking for comprehensive community-driven content about OCaml visit 📚[OCamlverse](https://ocamlverse.github.io/)!
 
-For a quick introduction to the modern OCaml development workflow consult the [**OCaml for the impatient**](https://adambard.com/blog/getting-started-with-ocaml/) guide.
+For a quick introduction to the modern OCaml development workflow consult the [**Up and Running with OCaml**](https://ocaml.org/learn/tutorials/up_and_running.html) tutorial.
 
 Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
 
@@ -65,7 +65,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Official OCaml Website](https://ocaml.org/)
 - [OCaml Discourse Web Forum](https://discuss.ocaml.org/)
 - [OCaml Discord Chat](https://discord.gg/ZBgYuvR)
-- [Official OCaml Mailing List](http://caml.inria.fr/resources/forums.en.html)
+- [Official OCaml Mailing List](https://inbox.ocaml.org/caml-list/)
 - [OCaml Planet](https://ocaml.org/community/planet/)
 - [OCaml SubReddit](https://www.reddit.com/r/ocaml/)
 
@@ -422,6 +422,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
   - [ocurl](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
   - [httpaf](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
+  - [piaf](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 - [fluent-logger](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 - [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
@@ -444,15 +445,12 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 - **Build Tools**:
+  - [dune](https://github.com/ocaml/dune) – A composable and opinionated build system for OCaml (former jbuilder)
   - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
     - [oasis2opam](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
   - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
-  - [dune](https://github.com/ocaml/dune) – A composable and opinionated build system for OCaml (former jbuilder)
-  - [jenga](https://github.com/janestreet/jenga) – Monadic build system from Jane Street.
-  - [ocamlbuild](http://ocaml.org/learn/tutorials/ocamlbuild/) — Build system provided with the compiler.
   - [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
   - [topkg](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
-  - [Namespaces](https://github.com/aantron/namespaces) - ocamlbuild plugin that converts your directory tree into nested modules.
   - [Bazel](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
 
 ## Parallelism
@@ -562,6 +560,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Utilities
 
 - [ocaml-cuid](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
+- [Uuidm](https://erratique.ch/software/uuidm) - Uuidm is an OCaml module implementing 128 bits universally unique identifiers version 3, 5 (name based with MD5, SHA-1 hashing) and 4 (random based) according to RFC 4122.
 
 
 ## Web Development
@@ -569,6 +568,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - **Frameworks**:
   - [Opium](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
   - [Ocsigen Eliom](http://ocsigen.org/eliom/) – Eliom is a full-featured multi-tier framework, for developing multi-platform Web and mobile apps as 100% OCaml distributed applications. It can also be used for more traditional Web or mobile apps: Web sites, single page applications, REST API, etc.
+  - [Dream](https://aantron.github.io/dream/) - Tidy Web framework for OCaml and ReasonML
   - [webmachine](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
   - [incr_dom](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js_of_ocaml
   - [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
@@ -590,7 +590,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [tyxml](http://ocsigen.org/tyxml) — Library to build valid (according to the W3C spec) Html and Svg trees.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
     - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js_of_ocaml project.
-  - [BuckleScript](https://github.com/bloomberg/bucklescript) - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way.
+  - [ReScript](https://rescript-lang.org/) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
   - [ocaml-uri](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
   - [Goji](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
   - [Syndic](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
