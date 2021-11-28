@@ -486,7 +486,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 # Science and Technical Computing
 
 - [biocaml](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
-- [guizmin](https://github.com/pveber/guizmin) – OCaml library for building bioinformatics pipelines.
+- [bistro](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
 - [lacaml](https://mmottl.github.io/lacaml/) - OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries).
 - [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
 - [onumerical](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
