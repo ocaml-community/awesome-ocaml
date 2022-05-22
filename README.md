@@ -217,6 +217,8 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - **Articles**:
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
   - [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)
+  - [Finally, Type-Safe, Extensible and Efficient Language Integrated Query](http://logic.cs.tsukuba.ac.jp/~ken/quel/) by Oleg and Co. 
+    The proposed approach is to describe SQL queries in type-safe manner and optimize them (using term rewriting or normalization-by evaluation) before sending to database engine. It potentially could optimize O(n^2) queries to O(n) ones.
 
 
 ## Datetime
