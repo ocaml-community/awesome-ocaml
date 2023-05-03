@@ -46,6 +46,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Package Management](#package-management)
 - [Parallelism](#parallelism)
 - [Project Starter Templates](#project-starter-templates)
+- [Printers helpers](#printers-helpers)
 - [Questions](#questions)
 - [Regular Expressions](#regular-expressions)
 - [Science and Technical Computing](#science-and-technical-computing)
@@ -218,6 +219,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - **Articles**:
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
   - [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)
+  - [Caqti setence preparation, ppx_rapper](https://github.com/roddyyaga/ppx_rapper)
 
 
 ## Datetime
@@ -441,7 +443,8 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - **Distribution**:
   - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
-  - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows.
+  - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
+  - [Diskuv OCaml](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
   - [makorel](https://github.com/sagotch/makorel) – Release OPAM packages easily.
   - [esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
@@ -471,6 +474,24 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
+
+## Printers helpers
+
+- Reason's native [**Console.log**](https://github.com/reasonml/reason-native/tree/master/src/console#consoleloganything)
+- [**Dum**](https://github.com/mjambon/dum#readme)
+- [**Inspect**](https://github.com/krohrer/caml-inspect#readme)
+- [**ppx_deriving** ](https://github.com/ocaml-ppx/ppx_deriving#usage)’s `[@@deriving show]`.
+- [**refl** ](https://github.com/thierry-martinez/refl#basic-usage), a ppx_deriving-like.
+- [**lrt** ](https://github.com/LexiFi/lrt#getting-started), another ppx_deriving-like.
+- [**tpf** ](https://github.com/pqwy/tpf#readme), again a ppx_deriving-like.
+- [**typerep** ](https://github.com/janestreet/typerep), probably a ppx_deriving-like with ppx_typerep_conv.
+- [**repr**](https://mirage.github.io/repr/repr/Repr/index.html#val-pp_json), which appears to have the user build the type representation manually from combinators in addition to also having the user pass it where needed.
+- [**data-encoding**](https://gitlab.com/nomadic-labs/data-encoding/-/blob/master/src/tutorial.md#how-to-build-an-encoding), also fully manual.
+- [**cmon** ](https://github.com/let-def/cmon#documentation), fully manual.
+- [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) in Dune. Appears to also be fully manual
+- [**Genprint** ](https://github.com/progman1/genprintlib#readme)
+- [**OCaml@p** ](https://github.com/tsubame-sp/ocaml_at_p#readme)
+
 
 ## Project Starter Templates
 
