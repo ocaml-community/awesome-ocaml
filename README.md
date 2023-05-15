@@ -474,7 +474,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
-  - [Parallel programing in multicore OCaml](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+  - [Parallel programming in multicore OCaml](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
   - [Parallelism programming](https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html) from the officiel OCaml manual 
   - [Awesome multicore OCaml](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
 
