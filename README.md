@@ -162,6 +162,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
   - [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
   - [RaML](http://raml.co/index.html) - Resource Aware ML (RaML) is a tool that automatically and statically computes resource-use bounds for OCaml programs.
+  - [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid Templating language for OCaml.
 
 - **Parser and Lexer Generators**:
   - [Opal](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
