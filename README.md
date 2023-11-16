@@ -204,8 +204,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
   - [ocaml-redis](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
   - [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
-  - [pgx](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library
-.
+  - [pgx](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
   - [mysql_protocol](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
 - **New Implementations**
   - [Irmin](https://github.com/mirage/irmin) — A distributed database that follows the same design principles as Git.
@@ -213,16 +212,17 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [RunOrg](https://github.com/RunOrg/RunOrg) - It is a WIP database server written in OCaml.
   - [dokeysto](https://github.com/UnixJunkie/dokeysto) - dumb OCaml key-value store, string keys and string
   values. Optional on-the-fly LZ4 compression of values or tokyocabinet backend.
-
 - **Overlays**
   - [Sequoia](https://github.com/andrenth/sequoia) - Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL
   - [Macaque](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
   - [ORM](https://github.com/mirage/orm) — ORM for SQLite.
   - [Caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
+  - [Caqti setence preparation, ppx_rapper](https://github.com/roddyyaga/ppx_rapper)
 - **Articles**:
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
   - [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)
-  - [Caqti setence preparation, ppx_rapper](https://github.com/roddyyaga/ppx_rapper)
+  - [Finally, Type-Safe, Extensible and Efficient Language Integrated Query](https://www.cs.tsukuba.ac.jp/~kam/papers/pepm2016a.pdf) by Oleg and Co. 
+    The proposed approach is to describe SQL queries in type-safe manner and optimize them (using term rewriting or normalization-by evaluation) before sending to database engine. It potentially could optimize O(n^2) queries to O(n) ones.
 
 
 ## Datetime
