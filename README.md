@@ -402,7 +402,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ppx_deriving_yojson](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 - **Tools and Language Extensions**:
   - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
-  - [Fan](http://zhanghongbo.me/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
+  - [Fan](http://bobzhang.github.io/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
   - [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
 
@@ -474,6 +474,9 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
+  - [Parallel programming in multicore OCaml](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+  - [Parallelism programming](https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html) from the officiel OCaml manual 
+  - [Awesome multicore OCaml](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
 
 ## Printers helpers
 
@@ -546,6 +549,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Serialization
 
+- [atdgen](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 - [bencode](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
 - [biniou](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 - [cbor](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) decoder/encoder.
@@ -594,6 +598,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Dream](https://aantron.github.io/dream/) - Tidy Web framework for OCaml and ReasonML
   - [webmachine](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
   - [incr_dom](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js_of_ocaml
+  - [fmlib_browser](https://hbr.github.io/fmlib/odoc/fmlib_browser/doc_overview.html) - a library which helps to write web applications which run in the browser in a pure functional style.
   - [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
 
 - **Tools**:
@@ -618,7 +623,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Goji](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
   - [Syndic](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
   - [ocaml-mustache](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
-  - [atdjs](https://github.com/barko/atdjs) – atd code generator for OCaml/js_of_ocaml.
+  - [atdjs](https://github.com/barko/atdjs) – atd code generator (serialization) for OCaml/js_of_ocaml.
   - [jingoo](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
   - [dispatch](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
   - [Lambda Soup](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
