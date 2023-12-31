@@ -109,6 +109,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Type OCaml – Many things about OCaml](http://typeocaml.com/)
 - [OCaml Platform](https://opam.ocaml.org/blog/)
 - [Drup's Thingies](https://drup.github.io/)
+- [Thomas Letan’s articles about OCaml](https://soap.coffee/~lthms/tags/ocaml.html)
 
 ## Books
 
