@@ -124,7 +124,9 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrop.
 - [Functional Programming in OCaml: A Principled Approach](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/) - Textbook for CS 3110 Functional Programming in OCaml, Cornell University.
 
+## Videos
 
+- [OCaml Programming: Correct + Efficient + Beautiful](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - List of 200 short videos recorded by Michael R. Clarkson. It can be watched independently of the textbook titled the same.
 
 ## Code Analysis and Linters
 
