@@ -21,6 +21,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Benchmarking](#benchmarking)
 - [Blogs](#blogs)
 - [Books](#books)
+- [Videos](#videos)
 - [Code Analysis and Linters](#code-analysis-and-linters)
 - [Compilers and Compiler Tools](#compilers-and-compiler-tools)
 - [Concurrency](#concurrency)
@@ -124,6 +125,9 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrop.
 - [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook) - Textboot on functional programming and data structures in OCaml - by Michael R. Clarkson et al.
 
+## Videos
+
+ - [OCaml Programming: Correct + Efficient + Beautiful](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - List of 200 bite-sized videos recorded by Michael R. Clarkson. It can be watched independently of the textbook titled the same and listed above in [Books section](#books).
 
 ## Code Analysis and Linters
 
