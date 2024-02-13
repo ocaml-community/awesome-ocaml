@@ -5,11 +5,11 @@ Awesome OCaml [![Build Status](https://travis-ci.org/ocaml-community/awesome-oca
 
 > _**Everything you'll ever need on the road to mastering OCaml.**_
 
-A curated list of references to awesome OCaml tools, frameworks, libraries and articles. Additionally there is a collection of freely available [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) and [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
+A curated list of references to awesome OCaml tools, frameworks, libraries, and articles. Additionally, there is a collection of freely available [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers), and [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
 
-If you're looking for comprehensive community-driven content about OCaml visit 📚[OCamlverse](https://ocamlverse.github.io/)!
+If you're looking for comprehensive community-driven content about OCaml, visit 📚[OCamlverse](https://ocamlverse.github.io/)!
 
-For a quick introduction to the modern OCaml development workflow consult the [**Up and Running with OCaml**](https://ocaml.org/learn/tutorials/up_and_running.html) tutorial.
+For a quick introduction to the modern OCaml development workflow, consult the [**Up and Running with OCaml**](https://ocaml.org/learn/tutorials/up_and_running.html) tutorial.
 
 Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
 
@@ -21,6 +21,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Benchmarking](#benchmarking)
 - [Blogs](#blogs)
 - [Books](#books)
+- [Videos](#videos)
 - [Code Analysis and Linters](#code-analysis-and-linters)
 - [Compilers and Compiler Tools](#compilers-and-compiler-tools)
 - [Concurrency](#concurrency)
@@ -89,17 +90,17 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 - [Core](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core_kernel](https://github.com/janestreet/core_kernel).
 - [Base](https://github.com/janestreet/base) - Jane Street Capital's dependency-free, quick-compiling, fully-portable across any environment that can run OCaml code standard library.
-- [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
-- [Minicli](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
+- [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support for programs with time-varying values, declarative events, and signals.
+- [Minicli](https://github.com/UnixJunkie/minicli) – Minimalist library for command-line parsing.
 - [easy-format](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 - [ocaml-rpc](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
-- [ocaml-containers](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
+- [ocaml-containers](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
 
 
 ## Benchmarking
 
 - [core_bench](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
-  - [Getting Started with Core_bench](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
+  - [Getting Started with Core_bench](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
 - [benchmark](https://github.com/Chris00/ocaml-benchmark) – Benchmarking functions for measuring the run-time of functions using latency or throughput.
 
 
@@ -113,26 +114,28 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Books
 
-- [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/) – In More OCaml John Whitington takes a meandering tour of functional programming with OCaml, introducing various language features and describing some classic algorithms. The book ends with a large worked example dealing with the production of PDF files. There are questions for each chapter together with worked answers and hints.
+- [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/) – In More OCaml, John Whitington takes a meandering tour of functional programming with OCaml, introducing various language features and describing some classic algorithms. The book ends with a large-scale example dealing with the production of PDF files. There are questions for each chapter, along with worked-out answers and hints.
 - [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html) by Allen Downey and Nicholas Monje – How to Think Like a Computer Scientist is an introductory programming textbook based on the OCaml language. It is a modified version of Think Python by Allen Downey. It is intended for newcomers to programming and also those who know some programming but want to learn programming in the function-oriented paradigm, or those who simply want to learn OCaml.
-- [OCaml from the Very Beginning](http://ocaml-book.com/) by J. Whitington - OCaml from the Very Beginning will appeal both to new programmers, and experienced programmers eager to explore functional languages such as OCaml.
-- [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) by Richard Bird - It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are [here](https://github.com/MassD/pearls).
-- [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy and J. Hickey - Functional programming for the masses.
-- [Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
+- [OCaml from the Very Beginning](http://ocaml-book.com/) by J. Whitington - OCaml from the Very Beginning will appeal both to new programmers and experienced programmers eager to explore functional languages such as OCaml.
+- [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) by Richard Bird - It summarizes 30 hard algorithmic problems in the function programming world. Although it is for Haskell, the algorithm problems are very interesting, and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are [here](https://github.com/MassD/pearls).
+- [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy, and J. Hickey - Functional Programming for the masses.
+- [Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/) by X. Leroy and D. Rémy – Introduction to Unix Systems Programming, with an emphasis on communications between processes.
 - [Using, Understanding, and Unraveling OCaml](https://caml.inria.fr/pub/docs/u3-ocaml) – This book describes both the OCaml language and the theoretical grounds behind its powerful type system.
 - [Purely Functional Data Structures](https://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
 - [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrop.
-- [Functional Programming in OCaml: A Principled Approach](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/) - Textbook for CS 3110 Functional Programming in OCaml, Cornell University.
+- [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook) - Textbook on Functional Programming and Data Structures in OCaml - by Michael R. Clarkson et al.
 
+## Videos
 
+ - [OCaml Programming: Correct + Efficient + Beautiful](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - List of 200 bite-sized videos recorded by Michael R. Clarkson. It can be watched independently of the textbook titled the same and listed above in the [Books section](#books).
 
 ## Code Analysis and Linters
 
-- [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
+- [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources.
 - [pfff](https://github.com/returntocorp/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [Infer](https://github.com/facebook/infer) - Infer is a static analyzer for Java, C and Objective-C
-- [Frama-C](http://frama-c.com) - Frama-C is a static analysis and formal proof framework for C and C++
-- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
+- [Frama-C](http://frama-c.com) - Frama-C is a static analysis and formal proof framework for C and C++.
+- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript.
 - [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
 - [MemCAD](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures.
 - [Camelot](https://github.com/upenn-cis1xx/camelot) - Camelot is a modular and fully configurable OCaml linter and stylechecker.
@@ -181,7 +184,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Concurrency
 
-Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very similar functionality but make radically different decisions with regards to error handling and internal implementation details (see the links below for more details). [Real World OCaml](https://realworldocaml.org/) uses Async but a version of the [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) is also available.
+Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very similar functionality but make radically different decisions with regards to error handling and internal implementation details (see the links below for more details). [Real World OCaml](https://realworldocaml.org/) uses Async, but a version of the [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) is also available.
 
 - **Libraries**:
   - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
@@ -237,11 +240,11 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Developer Tools
 
 - [Try OCaml](https://try.ocamlpro.com/) – Try OCaml in your web browser.
-- [BetterOCaml](https://betterocaml.ml) – An efficient, intuitive and cross-platform web IDE with your OCaml code interpreted and running in your browser!
+- [BetterOCaml](https://betterocaml.ml) – An efficient, intuitive, and cross-platform web IDE with your OCaml code interpreted and running in your browser!
 - [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – Compile and execute OCaml code online.
 - [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - Learn and execute OCaml code from your iPhone/iPad/Mac.
 - [Jupyter](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
-- [utop](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
+- [utop](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support for multiline edition, history, real-time and context-sensitive completion, colors, and more.
 - [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 - [ghim](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
@@ -273,14 +276,14 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Exercises and Short Examples
 
-- [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here](https://github.com/MassD/99).
+- [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% of the solutions are [here](https://github.com/MassD/99).
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
-- [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions](https://github.com/exercism/xocaml).
+- [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive, readable code. [Solutions](https://github.com/exercism/xocaml).
 - [Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/pleac_ocaml/index.html) - The OCaml section of the book is a free reference for solving common programming problems using OCaml.
 
 ## Formal Software Verification
 
-- [Coq](https://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
+- [Coq](https://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms, and theorems, together with an environment for semi-interactive development of machine-checked proofs.
 - [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
 - [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
 
@@ -331,9 +334,9 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [lablqml](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
 - [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 - [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
-- [Lambda-Term](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
-- [Notty](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
-- [ocaml-linenoise](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml.
+- [Lambda-Term](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, and colors, as well as a set of widgets to write curses-like applications.
+- [Notty](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
+- [ocaml-linenoise](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise; easy high-level readline functionality in OCaml.
 
 
 ## Language-related
@@ -359,15 +362,15 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Liquidsoap](https://github.com/savonet/liquidsoap) - a swiss-army knife for multimedia streaming, notably used for netradios and webtvs
 - [mirage](https://github.com/mirage/mirage) -  library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms
 - [MLDonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network peer-to-peer daemon
-- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
+- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor.
 - [pfff](https://github.com/returntocorp/pfff) - an OCaml API to write static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [WHY3](https://gitlab.inria.fr/why3/why3) - platform for deductive program verification
-- [xen-api](https://github.com/xapi-project/xen-api) - management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool
+- [xen-api](https://github.com/xapi-project/xen-api) - management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool.
 
 ## Logging
 
 - [dolog](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
-- [Volt](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
+- [Volt](https://github.com/codinuum/volt) – A variant of the Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
 ## Machine Learning
@@ -495,7 +498,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [**repr**](https://mirage.github.io/repr/repr/Repr/index.html#val-pp_json), which appears to have the user build the type representation manually from combinators in addition to also having the user pass it where needed.
 - [**data-encoding**](https://gitlab.com/nomadic-labs/data-encoding/-/blob/master/src/tutorial.md#how-to-build-an-encoding), also fully manual.
 - [**cmon** ](https://github.com/let-def/cmon#documentation), fully manual.
-- [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) in Dune. Appears to also be fully manual
+- [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) in Dune. It appears to also be fully manual.
 - [**Genprint** ](https://github.com/progman1/genprintlib#readme)
 - [**OCaml@p** ](https://github.com/tsubame-sp/ocaml_at_p#readme)
 
@@ -529,9 +532,9 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Regular Expressions
 
-- [Re](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
+- [Re](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
 - [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
-- [Humane-re](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
+- [Humane-re](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs. Courtesy of ocaml-re.
 - [Tyre](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
 
 
@@ -540,8 +543,8 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
 - [Digestif](https://github.com/mirage/digestif) - Hash algorithms (like SHA* or BLAKE2*) in OCaml and C.
 - [cryptokit](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
-- [nocoiner](https://github.com/marcoonroad/nocoiner) - A Commitment Schemes library for Multi-party Computations such as online Auctions and Gambling.
-- [nocrypto](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
+- [nocoiner](https://github.com/marcoonroad/nocoiner) - A Commitment scheme library for Multi-party computations such as online auctions and gambling.
+- [nocrypto](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles, and able to run in a Xen-based unikernel.
 
 > Note: The differences between `nocrypto` and `cryptokit` cryptographic libraries are described in the following blog post: [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
 
@@ -566,7 +569,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## System Programming
 
 - [Mirage OS](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
-- [ocaml-fat](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
+- [ocaml-fat](https://github.com/mirage/ocaml-fat) – Read and write FAT-format filesystems from OCaml.
 - [ocaml-git](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
 - [ocaml-vchan](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
@@ -591,8 +594,8 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Utilities
 
 - [ocaml-cuid](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
-- [Uuidm](https://erratique.ch/software/uuidm) - Uuidm is an OCaml module implementing 128 bits universally unique identifiers version 3, 5 (name based with MD5, SHA-1 hashing) and 4 (random based) according to RFC 4122.
 - [Validate](https://github.com/Axot017/validate) - PPX deriver designed to streamline the process of validating records.
+- [Uuidm](https://erratique.ch/software/uuidm) - Uuidm is an OCaml module implementing 128-bit universally unique identifiers version 3, 5 (name based with MD5, SHA-1 hashing) and 4 (random based) according to RFC 4122.
 
 
 ## Web Development
