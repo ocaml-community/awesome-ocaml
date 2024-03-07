@@ -598,6 +598,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [ocaml-cuid](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
 - [Validate](https://github.com/Axot017/validate) - PPX deriver designed to streamline the process of validating records.
 - [Uuidm](https://erratique.ch/software/uuidm) - Uuidm is an OCaml module implementing 128-bit universally unique identifiers version 3, 5 (name based with MD5, SHA-1 hashing) and 4 (random based) according to RFC 4122.
+- [sqids-ocaml](https://github.com/sqids/sqids-ocaml) - Official OCaml port of Sqids. Generate short unique IDs from numbers.
 
 
 ## Web Development
