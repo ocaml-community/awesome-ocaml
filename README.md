@@ -360,7 +360,6 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [Base](https://github.com/janestreet/base) - Standard library for OCaml
 - [cil](https://github.com/cil-project/cil) - C Intermediate Language
 - [coq](https://github.com/coq/coq) - formal proof management system
-- [Dark](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
 - [frama-c](https://git.frama-c.com/pub/frama-c) - platform dedicated to the analysis of source code written in C
 - [libguestfs](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images
 - [Liquidsoap](https://github.com/savonet/liquidsoap) - a swiss-army knife for multimedia streaming, notably used for netradios and webtvs
