@@ -158,6 +158,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
   - [Hack Programming Language](https://hacklang.org/)
   - [Haxe Programming Language](https://haxe.org/)
   - [Neko Programming Language](https://nekovm.org/) - Originally the compiler was written in OCaml.
+  - [Mazeppa](https://github.com/mazeppa-dev/mazeppa) - A modern supercompiler for call-by-value functional languages.
   - [Mezzo Programming Language](https://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
   - [OCaml-Java](http://www.ocamljava.org/) - OCaml to Java bytecode compiler.
   - [Opa Programming Language](http://opalang.org/)
