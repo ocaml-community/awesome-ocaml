@@ -368,6 +368,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [MLDonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network peer-to-peer daemon
 - [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor.
 - [pfff](https://github.com/returntocorp/pfff) - an OCaml API to write static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+- [Tezos](https://gitlab.com/tezos/tezos) - a self-upgradable Proof of Stake blockchain
 - [WHY3](https://gitlab.inria.fr/why3/why3) - platform for deductive program verification
 - [xen-api](https://github.com/xapi-project/xen-api) - management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool.
 
