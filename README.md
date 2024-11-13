@@ -102,6 +102,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [core_bench](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
   - [Getting Started with Core_bench](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
 - [benchmark](https://github.com/Chris00/ocaml-benchmark) – Benchmarking functions for measuring the run-time of functions using latency or throughput.
+- [bechamel](https://github.com/mirage/bechamel) - A micro-benchmarking tool in OCaml (platform agnostic and with `perf` metrics)
 
 
 ## Blogs
@@ -111,6 +112,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 - [OCaml Platform](https://opam.ocaml.org/blog/)
 - [Drup's Thingies](https://drup.github.io/)
 - [Thomas Letan’s articles about OCaml](https://soap.coffee/~lthms/tags/ocaml.html)
+- [Robur Blog](https://blog.robur.coop)
 
 ## Books
 
@@ -192,10 +194,12 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 - **Libraries**:
   - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
   - [Async](https://opensource.janestreet.com/async/) — A monadic concurrence library to go with the Core library.
+  - [Miou](https://github.com/robur-coop/miou) — A simple scheduler for OCaml 5 (for concurrency and parallelism)
 - **Articles**:
   - [The blog post that introduced Async](https://blog.janestreet.com/announcing-async/)
   - [A user gives up on Async](http://rgrinberg.com/posts/abandoning-async/)
   - [Cooperative Concurrency in OCaml: A Core.Std.Async Example](http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/).
+  - [A practical book to learn Miou](https://robur-coop.github.io/miou)
 
 There is also an ongoing experimental project to make OCaml multiprocessor and multicore aware at [OCaml multicore](https://github.com/ocamllabs/ocaml-multicore) fork.
 
@@ -441,6 +445,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [ocurl](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
   - [httpaf](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
   - [piaf](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
+  - [httpcats](https://github.com/robur-coop/httpcats) - Client/Server library for HTTP/1.1 & H2
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 - [fluent-logger](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 - [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
@@ -486,6 +491,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Parany](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
   - [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
   - [SPOC](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
+  - [miou](https://github.com/robur-coop/miou) - A simple library to launch concurrency and parallel tasks
 
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
@@ -553,9 +559,10 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [cryptokit](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 - [nocoiner](https://github.com/marcoonroad/nocoiner) - A Commitment scheme library for Multi-party computations such as online auctions and gambling.
 - [nocrypto](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles, and able to run in a Xen-based unikernel.
+- [mirage-crypto](https://github.com/mirage/mirage-crypto) - A small cryptographic library, a fork of `nocrypto`
 
 > Note: The differences between `nocrypto` and `cryptokit` cryptographic libraries are described in the following blog post: [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
-
+> Note: We recommend using `mirage-crypto` rather than `nocrypto`, which is no longer supported.
 
 ## Semantic Technology
 
@@ -572,6 +579,8 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
 - [yojson](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
 - [sexplib](https://github.com/janestreet/sexplib) – A S-expression parser and printer
+- [encore](https://github.com/mirage/encore) - A library to produce an encoder and a decoder which are isomorphic by construction
+- [angstrom](https://github.com/inhabitedtype/angstrom) - a parser-combinator library
 
 
 ## System Programming
