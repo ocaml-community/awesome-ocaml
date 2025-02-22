@@ -254,6 +254,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 - [ghim](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
 - [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) – Yeoman generator to scaffold OCaml modules.
+- [puml2xml](https://github.com/khalidbelk/puml2xml) – A PlantUML (**.puml**) to XML (**.xmi**) converter.
 
 - **Foreign Function Interface**:
   - [ctypes](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
