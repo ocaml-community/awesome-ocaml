@@ -1,4 +1,4 @@
-Awesome OCaml [![Build Status](https://travis-ci.org/ocaml-community/awesome-ocaml.svg?branch=master)](https://travis-ci.org/ocaml-community/awesome-ocaml)
+Awesome OCaml
 =============
 
 <img src="colour-logo.png" width="70%" />
