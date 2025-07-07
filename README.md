@@ -182,7 +182,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
   - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex and yacc implementation for OCaml.
   - [Angstrom](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 - **Articles**:
-  - [Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)
+  - [Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶](https://releases.llvm.org/12.0.0/docs/tutorial/OCamlLangImpl1.html)
 
 
 ## Concurrency
