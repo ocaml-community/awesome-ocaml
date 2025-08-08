@@ -210,7 +210,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [SQLite3](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
   - [ocaml-redis](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
-  - [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
+  - [mariadb](https://github.com/ocaml-community/ocaml-mariadb) - Bindings to MariaDB/MySQL, supporting the nonblocking API
   - [pgx](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
   - [mysql_protocol](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
 - **New Implementations**
