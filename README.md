@@ -186,18 +186,19 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 
 ## Concurrency
+Before OCaml 5.0, there were two libraries for concurrent programming: _Lwt_ and _Async_. They provide very similar functionality but make radically different decisions with regards to error handling and internal implementation details (see the links below for more details). [Real World OCaml](https://realworldocaml.org/) uses Async, but a version of the [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) is also available.
 
-Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very similar functionality but make radically different decisions with regards to error handling and internal implementation details (see the links below for more details). [Real World OCaml](https://realworldocaml.org/) uses Async, but a version of the [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) is also available.
+With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html) in OCaml 5.0, a bunch of other libraries have been created for concurrent programming, replacing the monadic approaches of LWT and Async with direct-style ones.
 
 - **Libraries**:
+  - [Eio](https://github.com/ocaml-multicore/eio) — effects-based direct-style IO for multicore OCaml.
+  - [Miou](https://github.com/robur-coop/miou) — a simple scheduler for OCaml 5.
   - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
   - [Async](https://opensource.janestreet.com/async/) — A monadic concurrence library to go with the Core library.
 - **Articles**:
   - [The blog post that introduced Async](https://blog.janestreet.com/announcing-async/)
   - [A user gives up on Async](http://rgrinberg.com/posts/abandoning-async/)
   - [Cooperative Concurrency in OCaml: A Core.Std.Async Example](http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/).
-
-There is also an ongoing experimental project to make OCaml multiprocessor and multicore aware at [OCaml multicore](https://github.com/ocamllabs/ocaml-multicore) fork.
 
 ## Databases
 
