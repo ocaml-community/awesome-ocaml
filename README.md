@@ -183,6 +183,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
   - [Angstrom](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 - **Articles**:
   - [Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for OCaml development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 
 ## Concurrency
