@@ -529,6 +529,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 
 - [biocaml](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 - [bistro](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
+- [fxmacrodata](https://github.com/fxmacrodata/ocaml-fxmacrodata) - Client for official foreign-exchange and macroeconomic data: central-bank policy rates, inflation, release calendars, and CFTC positioning.
 - [lacaml](https://mmottl.github.io/lacaml/) - OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries).
 - [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
 - [onumerical](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
