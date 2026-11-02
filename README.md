@@ -620,6 +620,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
   - [incr_dom](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js_of_ocaml
   - [fmlib_browser](https://hbr.github.io/fmlib/odoc/fmlib_browser/doc_overview.html) - a library which helps to write web applications which run in the browser in a pure functional style.
   - [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
+  - [Spindle](https://hyphatech.github.io/spindle/) - A fast, ergonomic and RFC-strict web framework for OCaml 5 and Eio, with JSON and OpenAPI docs derived from your types and routes.
 
 - **Tools**:
   - [COW](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
